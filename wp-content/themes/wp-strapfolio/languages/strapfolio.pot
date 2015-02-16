@@ -1,0 +1,446 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Strap Folio\n"
+"POT-Creation-Date: 2013-10-01 22:14-0000\n"
+"PO-Revision-Date: 2013-10-01 22:18-0000\n"
+"Last-Translator: WP Strap Code <info@wpstrapcode.com>\n"
+"Language-Team: WP Strap Code <infor@wpstrapcode.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe one of the links "
+"below might help?"
+msgstr ""
+
+#: 404.php:36
+msgid "Our Most Used Categories"
+msgstr ""
+
+#: 404.php:53
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive.php:32
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: archive.php:40
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:43
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:46
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:49
+msgid "Asides"
+msgstr ""
+
+#: archive.php:52
+msgid "Images"
+msgstr ""
+
+#: archive.php:55
+msgid "Videos"
+msgstr ""
+
+#: archive.php:58
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:61
+msgid "Links"
+msgstr ""
+
+#: archive.php:64 sidebar.php:18
+msgid "Archives"
+msgstr ""
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:18 content-single.php:25 content.php:49 image.php:60
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:23 content-single.php:66 content.php:84 image.php:34
+#: image.php:78 inc/template-tags.php:71 inc/template-tags.php:90
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:34 content-single.php:37 content.php:61 content.php:71
+msgid ", "
+msgstr ""
+
+#: content-single.php:42
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink "
+"to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: content-single.php:44
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: content-single.php:50
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: content-single.php:52
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: content.php:46
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: content.php:75
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: content.php:81
+msgid "Leave a comment"
+msgstr ""
+
+#: content.php:81
+msgid "1 Comment"
+msgstr ""
+
+#: content.php:81
+msgid "% Comments"
+msgstr ""
+
+#: footer.php:18
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:20
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:54
+msgid "Secondary Menu"
+msgstr ""
+
+#: functions.php:79
+msgid "Primary Sidebar"
+msgstr ""
+
+#: image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: image.php:39
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: image.php:40
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: image.php:69
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: image.php:71
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: image.php:73
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: image.php:75
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: no-results.php:23
+msgid "Sorry, but nothing matched the search terms: "
+msgstr ""
+
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar.php:13
+msgid "Search Site"
+msgstr ""
+
+#: sidebar.php:25
+msgid "Meta"
+msgstr ""
+
+#: inc/customizer.php:19
+msgid "Sitewide General Options"
+msgstr ""
+
+#: inc/customizer.php:24
+msgid "Slider Options"
+msgstr ""
+
+#: inc/customizer.php:29
+msgid "Content Options"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Social Options"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "If Slider enabled hide header section? (Front Page Only)"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Hide Comment Form on the Attachment page"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Show Home Slider"
+msgstr ""
+
+#: inc/customizer.php:91
+msgid "Hide Slider Caption?"
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "Hide Caption Thumbnail?"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Slider Transition"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Slide"
+msgstr ""
+
+#: inc/customizer.php:122
+msgid "Fade"
+msgstr ""
+
+#: inc/customizer.php:144
+msgid "Select Slider Category:"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "Number Of Slides To Show - i.e 10 (default is 5)"
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Slider Excerpt Length"
+msgstr ""
+
+#: inc/customizer.php:190
+msgid "Hide Top Post Meta On Blogfeed?"
+msgstr ""
+
+#: inc/customizer.php:204
+msgid "Hide Bottom Post Meta On Blogfeed?"
+msgstr ""
+
+#: inc/customizer.php:219
+msgid "Blogfeed Excerpt Length"
+msgstr ""
+
+#: inc/customizer.php:233
+msgid "Hide Read More Button On Blogfeed?"
+msgstr ""
+
+#: inc/customizer.php:247
+msgid "Read More &raquo;"
+msgstr ""
+
+#: inc/customizer.php:248
+msgid "Read More Button Text"
+msgstr ""
+
+#: inc/customizer.php:264
+msgid "Show Social Icons?"
+msgstr ""
+
+#: inc/customizer.php:278
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/customizer.php:293
+msgid "Google+ URL"
+msgstr ""
+
+#: inc/customizer.php:308
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/customizer.php:323
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/customizer.php:338
+msgid "LinkedIn URL"
+msgstr ""
+
+#: inc/customizer.php:353
+msgid "YouTube URL"
+msgstr ""
+
+#: inc/customizer.php:368
+msgid "Flicker URL"
+msgstr ""
+
+#: inc/customizer.php:383
+msgid "WordPress URL"
+msgstr ""
+
+#: inc/customizer.php:398
+msgid "GitHub URL"
+msgstr ""
+
+#: inc/customizer.php:413
+msgid "Dribbble URL"
+msgstr ""
+
+#: inc/customizer.php:428
+msgid "RSS Feed URL"
+msgstr ""
+
+#: inc/extras.php:66
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-tags.php:34
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:38
+msgid "&larr;"
+msgstr ""
+
+#: inc/template-tags.php:39
+msgid "&rarr;"
+msgstr ""
+
+#: inc/template-tags.php:44
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: inc/template-tags.php:48
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/template-tags.php:71
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:81
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: inc/template-tags.php:87
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/template-tags.php:94
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/template-tags.php:180
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: inc/template-tags.php:188
+#, php-format
+msgid "View all posts by %s"
+msgstr ""

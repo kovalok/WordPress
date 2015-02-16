@@ -1,0 +1,458 @@
+# Copyright (C) 2014 WPZOOM
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Academica 1.2.2-wpcom\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/academica\n"
+"POT-Creation-Date: 2014-07-02 03:23:34+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:26
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smilie
+#: 404.php:34
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive.php:16
+msgid "Category Archives: %s"
+msgstr ""
+
+#: archive.php:19
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: archive.php:23
+msgid "Author Archives: %s"
+msgstr ""
+
+#: archive.php:26
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:29
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:32
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:35
+msgid "Archives"
+msgstr ""
+
+#: archive.php:56
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: comments.php:15 content-gallery.php:69 content.php:29 functions.php:280
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:23
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:24
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:25
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:34
+msgid "Comments are closed."
+msgstr ""
+
+#: content-aside.php:11 content-gallery.php:72 content-page.php:20
+#: content-single.php:23 content.php:32 image.php:91
+msgid "Edit"
+msgstr ""
+
+#: content-gallery.php:48
+msgid "This gallery contains <strong>%1$s photo</strong>."
+msgid_plural "This gallery contains <strong>%1$s photos</strong>."
+msgstr[0] ""
+msgstr[1] ""
+
+#: content-gallery.php:64 content.php:11 content.php:24 inc/widgets.php:75
+#: inc/widgets.php:82 inc/wpzoom-widgets.php:75
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: content-page.php:13 content-single.php:13 image.php:64
+msgid "Pages:"
+msgstr ""
+
+#: content-single.php:21
+msgid "Tags:"
+msgstr ""
+
+#: footer.php:14
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:36
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:37
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:57
+msgid ""
+"The featured content section displays on the front page above the first post "
+"in the content area."
+msgstr ""
+
+#: functions.php:92
+msgid "Sidebar: Left"
+msgstr ""
+
+#: functions.php:101
+msgid "Sidebar: Right"
+msgstr ""
+
+#: functions.php:110
+msgid "Sidebar: Homepage (Left)"
+msgstr ""
+
+#: functions.php:119
+msgid "Sidebar: Homepage (Right)"
+msgstr ""
+
+#: functions.php:128
+msgid "Sidebar: Homepage (Middle)"
+msgstr ""
+
+#: functions.php:137
+msgid "Sidebar: Archive Pages"
+msgstr ""
+
+#: functions.php:146
+msgid "Sidebar: Pages (Left)"
+msgstr ""
+
+#: functions.php:155
+msgid "Sidebar: Pages (Right)"
+msgstr ""
+
+#: functions.php:164
+msgid "Footer"
+msgstr ""
+
+#: functions.php:187 functions.php:194
+msgid "Start here"
+msgstr ""
+
+#: functions.php:202 functions.php:214
+msgid "Latest Posts"
+msgstr ""
+
+#: functions.php:255 functions.php:629
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:290
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Translators: used between list items, there is a space after the comma.
+#: functions.php:422
+msgid ", "
+msgstr ""
+
+#: functions.php:433
+msgid "View all posts by %s"
+msgstr ""
+
+#. Translators: 1 is the author's name, 2 is category, and 3 is the date.
+#: functions.php:439
+msgid ""
+"<span class=\"by-author\">By %1$s </span>in <span class=\"category\">%2$s</"
+"span> on <span class=\"datetime\">%3$s</span>."
+msgstr ""
+
+#: functions.php:441
+msgid ""
+"<span class=\"by-author\">By %1$s </span>on <span class=\"datetime\">%3$s</"
+"span>."
+msgstr ""
+
+#: functions.php:465
+msgid "Post navigation"
+msgstr ""
+
+#: functions.php:467
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: functions.php:468
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:480
+msgid "Post Layout"
+msgstr ""
+
+#: functions.php:494
+msgid "Choose layout for this post:"
+msgstr ""
+
+#: functions.php:498
+msgid "Default"
+msgstr ""
+
+#: functions.php:502
+msgid "Only Left Sidebar"
+msgstr ""
+
+#: functions.php:506
+msgid "Full Width (no sidebars)"
+msgstr ""
+
+#: functions.php:564
+msgid "Home"
+msgstr ""
+
+#: functions.php:615
+msgid "Search results for &#39;%s&#39;"
+msgstr ""
+
+#: functions.php:618
+msgid "Posts tagged &#39;%s&#39;"
+msgstr ""
+
+#: functions.php:622
+msgid "Articles posted by %s"
+msgstr ""
+
+#: functions.php:625
+msgid "Error 404"
+msgstr ""
+
+#: header-image.php:37 slider.php:49
+msgid "Permalink to %s"
+msgstr ""
+
+#: image.php:71
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s"
+"\" rel=\"gallery\">%7$s</a>."
+msgstr ""
+
+#: image.php:83
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: image.php:85
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: image.php:87
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: image.php:89
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: image.php:95
+msgid "&larr; Previous"
+msgstr ""
+
+#: image.php:96
+msgid "Next &rarr;"
+msgstr ""
+
+#: inc/theme-options.php:30
+msgid "Social Profiles"
+msgstr ""
+
+#: inc/theme-options.php:36 inc/theme-options.php:256
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/theme-options.php:37 inc/theme-options.php:263
+msgid "Flickr URL"
+msgstr ""
+
+#: inc/theme-options.php:38 inc/theme-options.php:270
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/theme-options.php:39 inc/theme-options.php:277
+msgid "LinkedIn URL"
+msgstr ""
+
+#: inc/theme-options.php:40 inc/theme-options.php:284
+msgid "YouTube URL"
+msgstr ""
+
+#: inc/theme-options.php:69 inc/theme-options.php:70
+msgid "Theme Options"
+msgstr ""
+
+#: inc/theme-options.php:113
+msgid ""
+"Add social networking icons to the top of the theme by entering the URLs to "
+"your profiles."
+msgstr ""
+
+#: inc/theme-options.php:185
+msgid "%s Theme Options"
+msgstr ""
+
+#: inc/theme-options.php:242
+msgid "Header Social Icons"
+msgstr ""
+
+#: inc/widgets.php:53 inc/wpzoom-widgets.php:54
+msgctxt "Widget title link"
+msgid "%s &raquo;"
+msgstr ""
+
+#: inc/widgets.php:138 inc/wpzoom-widgets.php:130
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:142 inc/wpzoom-widgets.php:134
+msgid "Choose category:"
+msgstr ""
+
+#: inc/widgets.php:144 inc/wpzoom-widgets.php:136
+msgid "- Recent in all categories -"
+msgstr ""
+
+#: inc/widgets.php:154 inc/wpzoom-widgets.php:146
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets.php:158 inc/wpzoom-widgets.php:150
+msgid "Display as:"
+msgstr ""
+
+#: inc/widgets.php:161 inc/wpzoom-widgets.php:153
+msgid "Image list"
+msgstr ""
+
+#: inc/widgets.php:165 inc/wpzoom-widgets.php:157
+msgid "Image grid"
+msgstr ""
+
+#: index.php:30
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: search.php:12
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:30
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:7 searchform.php:8 searchform.php:9
+msgid "Search"
+msgstr ""
+
+#: single.php:30
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: single.php:31
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: social-icons.php:7
+msgid "Twitter"
+msgstr ""
+
+#: social-icons.php:8
+msgid "Flickr"
+msgstr ""
+
+#: social-icons.php:9
+msgid "Facebook"
+msgstr ""
+
+#: social-icons.php:10
+msgid "LinkedIn"
+msgstr ""
+
+#: social-icons.php:11
+msgid "YouTube"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Academica"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.wpzoom.com/themes/academica/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Academica is an education- and school-oriented CMS theme with a three-column "
+"layout and modern design. It is easy to customize and comes with a custom "
+"widget, three templates for Posts and Pages, and a featured content slider."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WPZOOM"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.wpzoom.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Sidebar Left"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Sidebar Right"
+msgstr ""
