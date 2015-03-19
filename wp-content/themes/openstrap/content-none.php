@@ -25,11 +25,14 @@
 // Show the default message to everyone else.
 ?>
 <header class="entry-header">
-	<h1 class="entry-title"><?php _e( 'Nothing Found', 'openstrap' ); ?></h1>
+	<h1 class="entry-title"><?php _e( 'Нічого не знайдено.', 'openstrap' ); ?></h1>
 </header>
 
 <div class="entry-content">
-	<p><?php _e( 'Apologies, but no results were found. Perhaps searching will help find a related post.', 'openstrap' ); ?></p>
+	<p><?php _e( '• Переконайтеся, що всі слова написані правильно.<br>
+					• Спробуйте інші ключові слова.<br>
+					• Спробуйте використати загальніші слова.<br>
+					• Спробуйте ввести менше ключових слів.', 'openstrap' ); ?></p>
 	<?php get_search_form(); ?>
 </div><!-- .entry-content -->
 <?php endif; // end current_user_can() check ?>	

@@ -9,6 +9,7 @@
 
 get_header(); ?>
 
+
 <?php 
 	$layout = of_get_option('page_layouts'); 
 	$wide_sidebar = of_get_option('wider_sidebar'); 

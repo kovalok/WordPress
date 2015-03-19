@@ -22,6 +22,65 @@ http://www.gnu.org/licenses/gpl-3.0.html
 
 /*Theme CSS*/
 
+.footermenu ul{
+ padding: 0px;
+}
+.footermenu li{
+	display:inline-block;
+	/*border: 1px solid black;*/
+	width:25%;
+	margin-bottom:30px;
+	padding-left:10px;
+	vertical-align:top;
+}
+.footermenu li a{
+	/*border-bottom:2px solid black;*/
+	color: #2fa4e7;
+	text-shadow: 0px 1px 0px white;
+	font-size: 15px;
+	font-weight: normal;
+}
+
+.footermenu li li{
+	display:block;
+	margin-left:5px;
+	width:100%;
+	margin-bottom:0px;
+	padding-left:0px;
+}
+.footermenu .children li a{
+	border-bottom:0;
+	font-size: 12px;
+    color: #044687;
+    text-decoration: none;	
+}
+
+.footermenu .children li a:hover{
+	color: #2fa4e7;
+}
+
+.langFlag{
+	display:inline-block;
+	padding: 0px;
+}
+
+.site-title{
+		font-family: 'Ubuntu', sans-serif;;
+		font-size:16pt;
+		text-align:center;
+		padding-top: 10px;
+		
+}
+.site-title span{
+		font-family: 'Ubuntu', sans-serif;;
+		font-size:13pt;
+		text-align:center;
+		padding-top:5px;
+		display:block;
+		
+}
+
+
 
 #bodychild{	
 	max-width: 100%;
@@ -224,7 +283,7 @@ padding-top: 3px;
 
 /* Set the fixed height of the footer here */
 #footer {
-  height: 50px;
+  /*height: 50px;*/
   background-color: #f5f5f5;
 }
 

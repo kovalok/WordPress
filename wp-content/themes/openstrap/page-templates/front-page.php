@@ -10,6 +10,8 @@
 
 get_header(); ?>
 
+
+
 <?php
 	$divclass = (of_get_option('front_page_widget_section_count')=='4') ? '3' : '4';
 	$imagepath =  get_template_directory_uri() . '/images/';

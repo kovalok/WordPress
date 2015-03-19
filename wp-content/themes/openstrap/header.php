@@ -34,6 +34,7 @@
 	endif;
 ?>
 <?php wp_head(); ?>
+<link href='http://fonts.googleapis.com/css?family=Ubuntu&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 </head>
 
 <body <?php body_class(); ?>>
@@ -60,9 +61,48 @@
 	<?php if ( $header !== "blank" ) : ?>
 		<header class="site-header" role="banner">
 		<div id="header-top">
-			<div class="container hidden-xs">
+			<div class="container">
 				<div class="pull-left header-contact" id="header-top-container">
-							<?php echo do_shortcode('[google-translator]');#plagin google translate ?>
+						<?php function langFlag ($lang){
+							
+							$url=$_SERVER["REQUEST_URI"];
+							$findlang   = '?lang';
+							$pos = strpos($url, $findlang);
+							if ($pos === false) {
+								//echo "Строка '$findme' не найдена в строке '$mystring'";
+								if($lang=="ua"){
+									$langUrl= $url;
+								}
+								else {
+									$langUrl= $url."?lang=".$lang;
+								}
+							} else {
+								//echo "Строка '$findme' найдена в строке '$mystring'";
+								//echo " в позиции $pos";
+								
+								if($lang=="ua"){
+									$len=strlen($url);
+									$url=substr_replace($url, '', $pos, $len);
+									$langUrl=$url;
+								}
+								else {
+									$len=strlen($url);
+									$url=substr_replace($url, '', $pos, $len);
+									$langUrl=$url."?lang=".$lang;
+								}
+								
+								
+								//echo $langUrl;
+							}						
+							return $langUrl;
+						}?>
+				<span class="no_translate">		
+					<a class="langFlag" href="<?php bloginfo('url'); echo langFlag ("ua"); ?>"><img src="<?php echo get_template_directory_uri(); ?>/images/lang/ua.png" alt="" class="img-responsive" /></a>
+					<a class="langFlag" href="<?php bloginfo('url'); echo langFlag ("en"); ?>"><img src="<?php echo get_template_directory_uri(); ?>/images/lang/en.png" alt="" class="img-responsive" /></a>
+					<a class="langFlag" href="<?php bloginfo('url'); echo langFlag ("ru"); ?>"><img src="<?php echo get_template_directory_uri(); ?>/images/lang/rus.png" alt="" class="img-responsive" /></a>
+					<a class="langFlag" href="<?php bloginfo('url'); echo langFlag ("pl"); ?>" ><img src="<?php echo get_template_directory_uri(); ?>/images/lang/pl.png" alt="" class="img-responsive" /></a>					
+				</span>	
+					<?php //echo do_shortcode('[google-translator]');#plagin google translate ?>
 				<?php if(!empty($header_contact_phone)):?>
 					<span><i class="icon-phone"></i> <?php echo $header_contact_phone;?></span>
 				<?php endif;?>
@@ -107,15 +147,23 @@
 			<div class="container">
 
 				 <div class="row logo-row">
-				  <div class="col-md-4 pull-left">
-					<?php if ( $site_logo != '' ) : ?>
-					<a href="<?php echo esc_url( home_url( '/' )); ?>"><img src="<?php echo esc_url($site_logo); ?>" alt="<?php bloginfo('description'); ?>" class="img-responsive" /></a>
-					<?php elseif($site_logo == '' || !isset($site_logo)): ?>
-					<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
-					<small><?php bloginfo( 'description' ); ?></small>
-					<?php endif; ?>					
+				  <div class="col-sm-2 col-md-2 hidden-xs">
+					
+					<?php if ( $site_logo != '' ) { ?>
+					<a class="site-logo" href="<?php echo esc_url( home_url( '/' )); ?>"><img src="<?php echo esc_url($site_logo); ?>" alt="<?php bloginfo('description'); ?>" class="img-responsive" /></a>
+					<?php } ?>
+				  
+				  </div>
+				  <div class="col-xs-12 col-sm-6 col-md-7">
+										
+					<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home">
+					<?php //bloginfo( 'name' ); ?>
+					ТЕРНОПІЛЬСЬКИЙ ДЕРЖАВНИЙ МЕДИЧНИЙ УНІВЕРСИТЕТ <div>імені І.Я. Горбачевського</div>
+					</a></h1>
+					<small><?php //bloginfo( 'description' ); ?></small>
+									
 				  </div>	  
-				  <div class="col-md-8 hidden-xs">
+				  <div class="col-sm-4 col-md-3 hidden-xs">
 					<div class="pull-right">
 						<?php if ( is_active_sidebar( 'openstrap_header_right' ) ) : ?>
 							<?php dynamic_sidebar( 'openstrap_header_right' ); ?>	

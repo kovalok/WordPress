@@ -26,10 +26,25 @@
 		?>
 <div id="footer">
   <div class="container footer-nav ">	
-	<div class="pull-left">
+	<!-- <div class="pull-left"> -->
+	<div>
 	<?php 
-		wp_nav_menu( array( 'theme_location' => 'footer-menu', 'menu_class' => 'list-inline', 'depth' =>1, 'container' => false, 'fallback_cb' => false ) ); 
+		//wp_nav_menu( array( 'theme_location' => 'footer-menu', 'menu_class' => 'list-inline', 'depth' =>1, 'container' => false, 'fallback_cb' => false ) ); 
 	?>
+	<?php $args = array(
+        'depth'       => 2,
+	'sort_column' => 'menu_order, post_title',
+	'menu_class'  => 'footermenu',
+	'include'     => '',
+	'exclude'     => '',
+	'echo'        => true,
+	'show_home'   => false,
+	'link_before' => '',
+	'link_after'  => '' );
+	
+	wp_page_menu( $args );
+	?>
+	
 	</div>	
 
 	<div class="pull-right hidden-xs">

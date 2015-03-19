@@ -4,6 +4,13 @@ $wide_sidebar = of_get_option('wider_sidebar');
 $col = (empty($wide_sidebar)) ? 9 : 8;	
 ?>
 
+<?php
+	$display_slider = of_get_option('display_slider');
+	if(isset($display_slider) && $display_slider==true) {
+		get_template_part( 'slides', 'index' );
+	}
+?>
+
 <!-- Main Blog Content -->
 <div class="col-md-<?php echo $col;?>" role="content">
 

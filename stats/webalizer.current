@@ -1,26 +1,24 @@
-# Webalizer V2.23-08 Incremental Data - 02/19/2015 17:05:12
-2015 2 19 17 5 12
-45032 43043 53 686 192 39 494854050 8889 411 0 0 0
-7 19 4265 1 19
-21 19 95502 4 16 16 0 0
-152 108 317381 9 113 19 0 0
-1633 1536 14100485 11 492 31 0 0
-586 585 783130 9 504 21 0 0
-6743 6574 72045736 18 1372 41 0 0
-1587 1565 13456453 10 257 28 0 0
-66 64 1673676 11 34 19 0 0
-52 28 408659 11 47 35 0 0
-852 830 9399752 12 274 27 0 0
-80 75 117120 8 80 18 0 0
-731 709 7048673 3 120 5 0 0
-1316 1292 11199164 3 202 9 0 0
-146 145 358417 2 100 7 0 0
-26 22 49921 2 19 2 0 0
+# Webalizer V2.23-08 Incremental Data - 03/17/2015 23:19:04
+2015 3 17 23 19 4
+28136 26461 56 602 106 44 507422249 8152 569 0 0 0
+12 38 2931 1 17
+105 99 8637699 10 53 38 0 0
+1288 1209 33177353 15 180 44 0 0
+682 654 25391751 8 77 23 0 0
+5214 4738 45570581 11 687 29 0 0
+409 374 8309017 8 45 24 0 0
+7061 6835 69435277 15 3767 69 0 0
+416 356 3271333 9 272 26 0 0
+173 163 1051607 11 45 25 0 0
 0 0 0 0 0 0 0 0
-6760 6642 61835178 9 1190 19 0 0
-15446 15089 144812339 13 2146 50 0 0
-8454 7411 142716714 7 1875 54 0 0
-381 349 14435750 7 48 12 0 0
+0 0 0 0 0 0 0 0
+2852 2725 54843189 15 651 58 0 0
+510 497 5079912 14 113 36 0 0
+2754 2705 39542498 13 560 41 0 0
+212 203 13173640 13 128 32 0 0
+369 329 29378122 12 218 30 0 0
+1647 1596 31370530 18 333 41 0 0
+4444 3978 139189740 12 1023 57 0 0
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
@@ -33,58 +31,54 @@
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
 0 0 0 0 0 0 0 0
-41 39 549083 40 0 0
-49 49 445239 19 0 0
-19 14 63764 12 0 0
-8 6 28002 8 0 0
-16 16 51813 11 0 0
-4 3 21340 4 0 0
-21 17 129713 6 0 0
-7 7 16268 3 0 0
-8 7 39480 8 0 0
-4035 3948 38039663 585 0 0
-3447 3376 47294736 629 0 0
-4981 4711 81309644 1083 0 0
-5873 5120 72734883 1334 0 0
-1046 1029 7302859 297 0 0
-2389 2293 19625069 621 0 0
-11720 11376 113182257 2010 0 0
-7543 7338 84931447 1263 0 0
-1835 1812 13224522 411 0 0
-109 91 1225804 21 0 0
-60 49 904203 17 0 0
-40 39 165000 16 0 0
-1201 1154 9914995 229 0 0
-420 393 2535404 148 0 0
-160 156 1118862 114 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+97 84 6746977 70 0 0
+70 59 7232118 65 0 0
+49 47 8194753 44 0 0
+42 40 493147 40 0 0
+44 41 541265 29 0 0
+37 33 1847822 29 0 0
+20 18 173075 14 0 0
+27 27 201849 23 0 0
+202 185 10110782 188 0 0
+908 825 17792297 121 0 0
+1976 1906 23454552 559 0 0
+3306 3021 148856350 482 0 0
+2293 2204 32332737 699 0 0
+748 734 12674848 194 0 0
+1777 1729 60685558 356 0 0
+5241 4998 57433629 1831 0 0
+5556 5245 55419841 1069 0 0
+2972 2593 26840016 708 0 0
+69 67 2342776 23 0 0
+297 245 6227451 78 0 0
+1830 1808 16199535 1278 0 0
+330 328 4076641 90 0 0
+90 83 658053 44 0 0
+155 141 6886177 118 0 0
 0
 0
 0
-43043
-0
-0
-0
-0
-0
-7
-0
-6
-381
-0
-1439
+26461
 0
 0
 0
 0
 0
+139
 0
-137
+104
+153
+0
+1140
 0
 0
 0
 0
 0
-0
+1
+84
 0
 0
 0
@@ -92,2035 +86,1735 @@
 0
 0
 0
-19
+0
+0
+0
+0
+0
+0
+54
 0
 0
 0
 0
 0
 # -urls- 
+/wp-content/plugins/lightbox-plus/css/burgundy/sample.jpg
+1 2 0 22822 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/green/sample.jpg
+1 2 0 22920 0 0 0 0
 /wp-content/themes/openstrap/inc/admin/js/options-custom.js
-0 63 0 75801 0 0 0 0
-/manual/pt-br/mod/mod_authz_core.html
-0 1 0 8260 0 1 0 0
-/wp-admin/theme-install.php
-0 31 0 312044 0 0 0 0
+0 26 0 31285 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/lk.png
+1 6 0 4482 0 0 0 0
+/job-training/institutes/institute-of-pharmacology/
+0 2 0 18531 0 1 0 0
 /wp-content/plugins/a3-responsive-slider/assets/fonts/a3-responsive-slider-dashboard.woff
-0 19 0 19300 0 0 0 0
-/wp-content/uploads/2015/02/
-0 165 0 27050099 6 9 0 0
+0 17 0 22611 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/tplogo.png
+1 32 0 27748 0 0 0 0
 /wp-admin/options-permalink.php
-0 6 0 48314 0 0 0 0
-/wp-content/themes/writerstrap/fonts/fontawesome-webfont.woff
-0 20 0 671881 0 0 0 0
+0 2 0 16447 0 0 0 0
 /wp-content/uploads/2015/02/17-208x300.jpg
-1 17 0 353200 0 0 0 0
+1 11 0 395884 0 0 0 0
 /job-training/faculties/
-0 2 0 15120 0 0 0 0
+0 30 0 304419 5 6 0 0
+/wp-content/plugins/google-custom-search/css/smoothness/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+1 1 0 564 0 0 0 0
 /wp-content/uploads/2015/02/image016-300x212.jpg
-1 8 0 112482 0 0 0 0
-/wp-content/themes/wix/css/theme-setup.css
-0 6 0 3463 0 0 0 0
+1 6 0 112119 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/la.png
+1 6 0 3659 0 0 0 0
+/about/license/image017/
+0 1 0 8666 1 1 0 0
 /wp-content/uploads/2015/02/image0101.jpg
-1 11 0 66308 0 0 0 0
+1 9 0 117406 0 0 0 0
+/job-training/institutes/institute-of-morphology/
+0 2 0 18506 1 0 0 0
 /wp-content/plugins/google-apps-login/js/gal-admin.js
-0 7 0 10617 0 0 0 0
-/wp-content/themes/bootstrap-basic/js/vendor/respond.min.js
-0 7 0 17507 0 0 0 0
+0 3 0 4549 0 0 0 0
 /science/scientific-council/
-0 1 0 6822 0 0 0 0
-/wp-content/plugins/multilanguage/bws_menu/images/icon_16_single.png
-1 1 0 179 0 0 0 0
-/manual/es/mod/mod_privileges.html
-0 1 0 6853 1 1 0 0
+0 16 0 144964 8 6 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/vn.png
+1 6 0 3618 0 0 0 0
 /job-training/
-0 25 0 218203 0 0 0 0
-/wp-content/themes/bootstrap-basic/js/vendor/html5shiv.js
-0 7 0 11305 0 0 0 0
-/wp-content/plugins/google-language-translator/images/flags20.png
-1 1 0 37799 0 0 0 0
-/wp-admin/css/install.min.css
-0 6 0 12329 0 0 0 0
-/wp-content/themes/advertica-lite/SketchBoard/includes/images/Incart.png
-1 1 0 121731 0 0 0 0
+0 15 0 137643 5 3 0 0
+/wp-content/plugins/google-custom-search/js/gsc.js
+0 26 0 16904 0 0 0 0
 /wp-content/uploads/2015/02/12-205x300.jpg
-1 16 0 464459 0 0 0 0
+1 11 0 521254 0 0 0 0
+/wp-content/uploads/2015/02/image016.jpg
+1 1 0 149067 0 0 0 0
 /wp-content/uploads/2015/02/1-220x300.jpg
-1 16 0 426994 0 0 0 0
-/wp-content/plugins/a3-responsive-slider/assets/images/playback-next.png
-1 4 0 3179 0 0 0 0
-/wp-content/plugins/easing-slider/images/loading.gif
-1 61 0 149011 0 0 0 0
-/Search-Replace-DB-master/
-0 24 0 172675 0 0 0 0
+1 12 0 532302 0 0 0 0
+/wp-content/plugins/lightbox-plus/admin/images/aflt-100x26-rckstr.jpg
+1 2 0 4897 0 0 0 0
+/wp-content/plugins/google-custom-search/paypal-donate-button.jpg
+1 2 0 18688 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/ls.png
+1 6 0 4704 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/tz.png
+1 6 0 4782 0 0 0 0
 /wp-content/uploads/2015/02/13-194x300.jpg
-1 16 0 337595 0 0 0 0
-/wp-content/themes/advertica-lite/SketchBoard/includes/images/bizstudio-default-demo.png
-1 1 0 166264 0 0 0 0
+1 11 0 378532 0 0 0 0
 /wp-content/uploads/2015/02/15.jpg
-1 10 0 2001532 0 0 0 0
+1 2 0 666937 0 0 0 0
 /wp-content/uploads/2015/02/27-199x300.jpg
-1 22 0 405420 0 0 0 0
+1 11 0 330451 0 0 0 0
 /sitemap.xml
-0 1 0 987 0 0 0 0
-/medical-work/pilot-project-for-hypertension/
-0 1 0 6828 0 0 0 0
+0 12 0 9982 0 0 0 0
 /wp-content/themes/openstrap/inc/admin/js/media-uploader.js
-0 63 0 82473 0 0 0 0
+0 26 0 34037 0 0 0 0
+/medical-work/pilot-project-for-hypertension/
+0 14 0 129012 1 1 0 0
 /wp-content/themes/openstrap/css/style2/bootstrap.css
-0 578 0 10983820 0 0 0 0
-/wp-content/plugins/easing-slider/css/welcome-pages.min.css
-0 1 0 695 0 0 0 0
-/manual/pt-br/mod/mod_log_config.html
-0 1 0 9032 1 1 0 0
-/wp-content/uploads/2015/02/image010-150x150.jpg
-1 4 0 15179 0 0 0 0
+0 740 0 14064850 0 0 0 0
+/wp-content/plugins/google-custom-search/css/smoothness/jquery-ui.theme.min.css
+0 26 0 68812 0 0 0 0
+/wp-content/uploads/2015/02/slider_admin1-300x76.png
+1 4 0 240230 0 0 0 0
 /wp-admin/widgets.php
-0 38 0 922222 1 0 0 0
-/wp-content/themes/advertica-lite/css/fonts/fontawesome-webfont.woff
-0 2 0 168122 0 0 0 0
-/wp-content/plugins/multilanguage/bws_menu/css/general_style.css
-0 5 0 9717 0 0 0 0
+0 15 0 502589 3 0 0 0
 /wp-admin/themes.php
-0 194 0 3341429 0 0 0 0
-/wp-content/themes/city-informer/fonts/Open_Sans/OpenSans-ExtraBold.ttf
-0 2 0 430168 0 0 0 0
-/wp-content/themes/wp-strapfolio/font/genericons-regular-webfont.eot
-0 1 0 10694 0 0 0 0
-/wp-content/plugins/a3-responsive-slider/assets/images/playback-prev.png
-1 4 0 3194 0 0 0 0
-/wp-content/uploads/2015/02/image013-150x150.jpg
-1 4 0 15247 0 0 0 0
-/2015/02/03/new-site/feed/
-0 1 0 1250 1 0 0 0
-/wp-content/themes/twentythirteen/genericons/genericons.css
-0 1 0 19666 0 0 0 0
-/en_US/
-0 5 0 16831 3 3 0 0
+0 36 0 818937 0 1 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/wales.png
+1 6 0 5040 0 0 0 0
+/wp-content/plugins/simple-share-buttons-adder/images/simplesharebuttons.png
+1 1 0 5183 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/dark/sample.jpg
+1 2 0 21096 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/grey/sample.jpg
+1 2 0 22084 0 0 0 0
+/author/urkobanzay/feed/
+0 5 0 8313 1 2 0 0
+/about/achievements/attachment/6/
+0 1 0 9447 1 1 0 0
+/wp-admin/update-core.php
+0 13 0 106838 3 1 0 0
 /wp-content/uploads/2015/02/18-196x300.jpg
-1 18 0 369697 0 0 0 0
+1 11 0 368434 0 0 0 0
 /wp-includes/js/tinymce/plugins/paste/plugin.min.js
-0 196 0 1294389 0 0 0 0
+0 46 0 303785 0 0 0 0
 /job-training/work-plans/
-0 13 0 105826 0 0 0 0
-/wp-content/themes/city-informer/images/quote.png
-1 15 0 30527 0 0 0 0
-/wp-content/themes/a1/theme-options/css/a1_framework.css
-0 4 0 12055 0 0 0 0
-/about/achievements/attachment/18/
-0 1 0 7173 0 0 0 0
-/wp-content/themes/wix/images/wix-sidebar-bg.png
-1 3 0 9399 0 0 0 0
-/wp-content/themes/wix/theme-option/images/tw.png
-1 1 0 5168 0 0 0 0
-/manual/da/vhosts/name-based.html
-0 1 0 5007 1 1 0 0
+0 14 0 128255 2 3 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/css/keyboard.css
+0 1 0 1685 0 0 0 0
+/wp-content/plugins/simple-share-buttons-adder/buttons/simple/twitter.png
+1 6 0 3499 0 0 0 0
+/job-training/institutes/institute-of-continuing-education/
+0 2 0 18507 1 1 0 0
 /wp-admin/options-reading.php
-0 8 0 68202 0 0 0 0
-/wp-content/uploads/2015/02/logo.png
-1 6 0 202929 0 0 0 0
+0 2 0 18319 1 0 0 0
 /wp-includes/js/customize-preview.min.js
-0 321 0 398695 0 0 0 0
-/wp-admin/upload.php
-0 1 0 18193 0 0 0 0
+0 28 0 34776 0 0 0 0
 /wp-content/uploads/2015/02/image0061.jpg
-1 1 0 147603 0 0 0 0
+1 1 0 147604 0 0 0 0
 /wp-content/uploads/2015/02/4-209x300.jpg
-1 16 0 477988 0 0 0 0
-/wp-content/themes/advertica-lite/SketchBoard/includes/images/Invert-mac-300px.png
-1 1 0 49977 0 0 0 0
+1 11 0 536472 0 0 0 0
 /wp-content/uploads/2015/02/26.jpg
-1 10 0 1348988 0 0 0 0
+1 2 0 449422 0 0 0 0
 /wp-content/uploads/2015/02/2.jpg
-1 10 0 2265160 0 0 0 0
-/wp-content/themes/wp-strapfolio/js/bootstrap.min.js
-0 449 0 3558793 0 0 0 0
+1 3 0 1132219 0 0 0 0
+/2015/02/25/ого-го/
+0 5 0 56734 2 1 0 0
 /wp-content/uploads/2015/02/28-212x300.jpg
-1 22 0 544432 0 0 0 0
-/wp-content/plugins/footer-putter/styles/footer-credits.css
-0 5 0 5305 0 0 0 0
-/wp-content/uploads/2015/02/logo_ТДМУ.png
-1 6 0 133488 0 0 0 0
-/wp-content/plugins/google-language-translator/js/load-toolbar.js
-0 1025 0 666687 0 0 0 0
-/wp-content/themes/minn-lite/screenshot.png
-1 4 0 392622 0 0 0 0
-/manual/es/mod/mod_log_debug.html
-0 1 0 3443 1 1 0 0
+1 11 0 488404 0 0 0 0
+/wp-content/uploads/2015/02/NPC.pdf
+0 3 0 23693922 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/id.png
+1 6 0 3084 0 0 0 0
 /about/license/image003-2/
-0 1 56 6842 0 0 0 0
-/wp-content/themes/twentyfifteen/screenshot.png
-1 16 0 3770250 0 0 0 0
+0 1 0 8306 0 0 0 0
 /wp-content/uploads/2015/02/15-224x300.jpg
-1 17 0 456826 0 0 0 0
-/wp-content/plugins/google-sitemap-generator/img/icon-google.gif
-1 3 0 2853 0 0 0 0
-/manual/en/mod/mod_proxy_balancer.html
-0 1 0 6361 1 1 0 0
-/wp-content/plugins/footer-putter/images/logo.png
-1 2 0 53658 0 0 0 0
-/wp-content/themes/bootstrap-basic/css/font-awesome.min.css
-0 7 0 37649 0 0 0 0
-/wp-content/themes/advertica-lite/SketchBoard/includes/images/Timeliner_Modeling_Demo.png
-1 1 0 45298 0 0 0 0
+1 11 0 455742 0 0 0 0
+/wp-content/plugins/social-media-tabs/css/admin.css
+0 1151 0 1357308 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/ee.png
+1 6 0 3039 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/es.png
+1 6 0 3720 0 0 0 0
 /for-student/
-0 1 0 11272 0 0 0 0
+0 12 0 109324 4 4 0 0
 /wp-includes/css/buttons.min.css
-0 48 0 77813 0 0 0 0
-/wp-content/themes/wix/images/zoom-icon.png
-1 1 0 1807 0 0 0 0
+0 9 0 14590 0 0 0 0
+/wp-content/uploads/2015/02/disruptive-tech2.png
+1 180 0 54742633 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/blue/sample.jpg
+1 2 0 23516 0 0 0 0
 /wp-content/uploads/2015/02/7-209x300.jpg
-1 16 0 438115 0 0 0 0
-/manual/da/mod/mod_authz_owner.html
-0 1 0 3804 1 1 0 0
+1 11 0 491617 0 0 0 0
+/wp-content/uploads/2015/02/image014.jpg
+1 1 0 147934 0 0 0 0
 /wp-content/themes/wp-strapfolio/screenshot.png
-1 23 0 1685641 0 0 0 0
+1 3 0 336838 0 0 0 0
+/medical-work/association-of-endoscopic-surgeons-ukraine/
+0 12 0 109668 2 3 0 0
+/medical-work/training-and-practical-center/
+0 16 0 146176 3 3 0 0
+/job-training/institutes/institute-analysis-of-pathological-processes/
+0 2 0 18523 0 0 0 0
 /wp-content/themes/openstrap/inc/admin/images/ico-delete.png
-1 17 0 12053 0 0 0 0
-/wp-content/themes/city-informer/fonts/Share/Share-Bold.woff
-0 9 0 311664 0 0 0 0
+1 5 0 4990 0 0 0 0
 /wp-content/themes/openstrap/inc/admin/images/style1.png
-1 18 0 122317 0 0 0 0
-/wp-includes/js/imgareaselect/border-anim-h.gif
-1 1 0 461 0 0 0 0
+1 5 0 55025 0 0 0 0
+/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9.js
+0 690 0 6403907 0 0 0 0
 /wp-content/uploads/2015/02/gorbachevsky.jpg
-1 1 0 25519 0 0 0 0
-/wp-content/themes/a1/screenshot.png
-1 7 0 981361 0 0 0 0
-/wp-content/themes/advertica-lite/css/fonts/OpenSans-Italic-webfont.woff
-0 1 0 23488 0 0 0 0
+1 2 0 51038 0 0 0 0
+/wp-content/plugins/simple-share-buttons-adder/buttons/simple/linkedin.png
+1 6 0 3289 0 0 0 0
 /contacts/resources/
-0 11 0 89882 0 0 0 0
-/wp-content/uploads/2015/02/logo-300x76.png
-1 9 0 200103 0 0 0 0
-/wp-content/themes/a1/style.css
-0 2 0 20208 0 0 0 0
-/manual/pt-br/rewrite/access.html
-0 1 0 4957 1 1 0 0
-/wp-content/themes/wp-strapfolio/js/customizer.js
-0 179 0 128535 0 0 0 0
-/wp-content/themes/bootstrap-basic/css/main.css
-0 7 0 9354 0 0 0 0
-/wp-content/themes/city-informer/style.css
-0 19 0 146630 0 0 0 0
+0 3 0 26965 2 1 0 0
 /wp-content/uploads/2015/02/image004-300x195.jpg
-1 16 0 107991 0 0 0 0
-/wp-content/plugins/google-sitemap-generator/img/icon-email.gif
-1 3 0 1115 0 0 0 0
+1 8 0 169610 0 0 0 0
+/wp-content/plugins/lightbox-plus/admin/images/ui-bg_flat_75_ffffff_40x100.png
+1 2 0 920 0 0 0 0
+/wp-content/plugins/social-media-tabs/inc/images/twitter.png
+1 2 0 7639 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/hu.png
+1 6 0 3044 0 0 0 0
 /wp-includes/js/thickbox/thickbox.css
-0 477 0 549574 0 0 0 0
-/wp-content/uploads/2015/02/disruptive-tech-380x236.png
-1 13 0 1960305 0 0 0 0
+0 183 0 210918 0 0 0 0
+/wp-content/uploads/2015/02/Univer_lik.pdf
+0 9 0 55004719 0 0 0 0
 /wp-content/uploads/2015/02/image0061-300x212.jpg
-1 9 0 128483 0 0 0 0
-/manual/fr/mod/directive-dict.html
-0 1 0 5862 1 1 0 0
-/wp-content/plugins/easing-slider/css/editor-pages.min.css
-0 9 0 16726 0 0 0 0
+1 6 0 109820 0 0 0 0
+/wp-content/plugins/social-media-tabs/inc/images/deviantart.png
+1 2 0 8908 0 0 0 0
 /wp-content/uploads/2015/02/image0081-300x212.jpg
-1 8 0 109700 0 0 0 0
+1 5 0 91115 0 0 0 0
+/wp-content/plugins/easing-slider/css/editor-pages.min.css
+0 1 0 2051 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/hr.png
+1 6 0 3599 0 0 0 0
 /2015/02/17/вітаємо-на-новому-сайті-тдму/
-0 7 0 57803 0 0 0 0
-/wp-content/themes/wp-strapfolio/font/genericons-regular-webfont.ttf
-0 1 0 20126 0 0 0 0
+0 16 0 166048 3 3 0 0
 /wp-content/uploads/2015/02/image005-300x208.jpg
-1 16 0 123190 0 0 0 0
+1 8 0 193929 0 0 0 0
+/wp-content/plugins/social-media-tabs/css/images/custom.png
+1 2 0 1590 0 0 0 0
 /wp-content/uploads/2015/02/image013-300x212.jpg
-1 8 0 111143 0 0 0 0
+1 7 0 129244 0 0 0 0
 /wp-admin/images/arrows-2x.png
-1 2 0 2292 0 0 0 0
-/wp-content/plugins/google-sitemap-generator/img/icon-help.png
-1 3 0 2946 0 0 0 0
-/wp-content/themes/wix/style.css
-0 3 0 6075 0 0 0 0
-/manual/en/mod/mod_lbmethod_byrequests.html
-0 1 0 3569 1 1 0 0
+1 1 0 1146 0 0 0 0
 /wp-content/themes/openstrap/inc/admin/images/content-sidebar.png
-1 18 0 6782 0 0 0 0
+1 5 0 2515 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/elegant-white/sample.jpg
+1 2 0 23142 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/js/admin/languages.js
+0 7 0 7596 0 0 0 0
 /wp-admin/load-scripts.php
-0 221 0 14826419 3 11 0 0
+0 68 0 3380329 0 2 0 0
 /wp-admin/plugin-install.php
-0 32 0 465339 2 0 0 0
-/wp-content/themes/advertica-lite/screenshot.png
-1 24 0 3811429 0 0 0 0
-/wp-admin/about.php
-0 8 0 71928 0 0 0 0
-/manual/pt-br/mod/mod_dav_fs.html
-0 1 0 3084 1 1 0 0
+0 18 0 276515 1 0 0 0
 /wp-admin/images/spinner.gif
-1 25 0 81321 0 0 0 0
+1 9 0 31493 0 0 0 0
 /wp-content/uploads/2015/02/image0071-300x212.jpg
-1 8 0 109244 0 0 0 0
-/wp-content/uploads/2015/02/image011-150x150.jpg
-1 4 0 15156 0 0 0 0
-/manual/pt-br/howto/public_html.html
-0 1 0 4018 1 1 0 0
-/wp-content/themes/twentythirteen/images/headers/circle.png
-1 1 0 34134 0 0 0 0
-/wp-content/themes/advertica-lite/SketchBoard/includes/images/Advertica_screen_420px.png
-1 1 0 60505 0 0 0 0
-/wp-includes/images/spinner-2x.gif
-1 2 0 17642 0 0 0 0
+1 5 0 90736 0 0 0 0
+/wp-content/uploads/2015/02/image010.jpg
+1 1 0 148210 0 0 0 0
 /medical-work/hospitals-and-clinical-bases/
-0 4 0 31145 0 0 0 0
-/wp-content/plugins/footer-putter/images/add-link.jpg
-1 1 0 29118 0 0 0 0
-/manual/da/mod/mod_proxy_ftp.html
-0 1 0 5238 1 1 0 0
+0 19 0 172359 5 5 0 0
 /wp-content/uploads/2015/02/image002-300x199.jpg
-1 22 0 101937 0 0 0 0
-/manual/en/mod/mod_authz_owner.html
-0 1 0 3804 1 1 0 0
+1 7 0 115558 0 0 0 0
 /wp-content/uploads/2015/02/image006-300x200.jpg
-1 17 0 130259 0 0 0 0
-/wp-admin/options.php
-0 1 0 14301 0 0 0 0
-/manual/da/programs/apachectl.html
-0 1 0 3790 0 0 0 0
+1 8 0 204954 0 0 0 0
 /wp-content/uploads/2015/02/16.jpg
-1 10 0 2877556 0 0 0 0
-/wp-content/uploads/2015/02/image015-150x150.jpg
-1 4 0 14698 0 0 0 0
-/wp-content/plugins/multilanguage/images/flags/uk.png
-1 4 0 2916 0 0 0 0
+1 2 0 958945 0 0 0 0
+/wp-content/plugins/social-media-tabs/inc/images/flickr.png
+1 2 0 8356 0 0 0 0
 /international-relations/office-of-international-affairs/
-0 3 0 25773 0 0 0 0
-/wp-content/themes/minn-lite/api/css/wpgo-theme-admin.css
-0 1 0 840 0 0 0 0
-/manual/da/ssl/ssl_howto.html
-0 1 0 5195 1 1 0 0
-/wp-content/themes/city-informer/fonts/Open_Sans/OpenSans-Italic.ttf
-0 2 0 420480 0 0 0 0
+0 35 0 557816 3 2 0 0
 /wp-admin/plugins.php
-0 45 0 482604 2 0 0 0
-/test-test/
-0 13 0 71928 1 5 0 0
+0 40 0 503260 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/yellow/sample.jpg
+1 2 0 23218 0 0 0 0
 /wp-content/plugins/google-language-translator/css/style.css
-0 1246 0 6277804 0 0 0 0
+0 289 0 1456006 0 0 0 0
 /wp-content/plugins/google-apps-login/img/basic_avatars.png
-1 1 0 62569 0 0 0 0
-/wp-content/themes/twentyfourteen/screenshot.png
-1 15 0 5558971 0 0 0 0
-/manual/da/mod/mod_mime_magic.html
-0 1 0 5716 1 1 0 0
+1 1 4 62570 0 0 0 0
+/medical-work/university-hospital/
+0 22 0 207626 7 7 0 0
+/wp-content/plugins/social-media-tabs/inc/images/lastfm.png
+1 2 0 8840 0 0 0 0
 /author/urkobanzay/
-0 2 0 9203 2 2 0 0
-/about/achievements/attachment/15/
-0 1 4 8443 0 0 0 0
-/wp-content/themes/minn-lite/api/deprecated/widget-bug-fix.js
-0 2 0 1481 0 0 0 0
+0 7 0 71772 0 0 0 0
 /wp-content/themes/openstrap/fonts/fontawesome-webfont.eot
-0 5 0 38431 0 0 0 0
+0 1 0 180 0 0 0 0
+/wp-content/plugins/google-custom-search/css/smoothness/images/ui-bg_flat_75_ffffff_40x100.png
+1 4 0 1960 0 0 0 0
 /2015/02/
-0 7 0 43869 3 3 0 0
+0 10 0 105787 0 0 0 0
+/wp-content/plugins/google-apps-login/img/basic_driveplugin.png
+1 1 3 45396 0 0 0 0
 /wp-content/uploads/2015/02/25-208x300.jpg
-1 20 0 414540 0 0 0 0
-/manual/pt-br/mod/mod_auth_basic.html
-0 1 0 5244 1 1 0 0
-/wp-content/themes/openstrap/images/optin/email.png
-1 12 0 9647 0 0 0 0
+1 11 0 464289 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/black/sample.jpg
+1 2 0 22144 0 0 0 0
 /wp-content/uploads/2015/02/image0091-300x199.jpg
-1 14 0 134419 0 0 0 0
+1 8 0 212473 0 0 0 0
+/wp-content/uploads/2015/02/jyr_osobi-1.pdf
+0 1 0 351660 0 0 0 0
 /wp-content/uploads/2015/02/5-210x300.jpg
-1 16 0 376572 0 0 0 0
+1 11 0 422379 0 0 0 0
+/search/
+0 3 0 30342 0 0 0 0
 /wp-includes/js/customize-preview-widgets.min.js
-0 321 0 327111 0 0 0 0
+0 28 0 28532 0 0 0 0
 /wp-admin/post.php
-0 165 0 5984117 2 1 0 0
+0 70 0 2447060 3 0 0 0
 /author/admin/
-0 3 0 11673 3 2 0 0
-/manual/da/mod/mod_example.html
-0 1 0 3829 1 1 0 0
-/wp-content/plugins/google-sitemap-generator/img/icon-arne.gif
-1 3 0 4101 0 0 0 0
-/wp-content/themes/twentyfifteen/js/functions.js
-0 4 0 6692 0 0 0 0
+0 17 0 162580 4 1 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/ng.png
+1 6 0 3289 0 0 0 0
+/wp-content/plugins/social-media-tabs/inc/images/youtube.png
+1 2 0 8790 0 0 0 0
 /wp-includes/js/underscore.min.js
-0 326 0 1717710 0 0 0 0
+0 28 0 147532 0 0 0 0
+/wp-content/uploads/2015/02/image002.jpg
+1 2 0 26554 0 0 0 0
 /category/tsmu/news/
-0 142 0 1154427 9 9 0 0
+0 68 0 676722 4 11 0 0
 /wp-content/plugins/google-language-translator/js/jquery-ui.js
-0 29 0 3134938 0 0 0 0
-/test1/
-0 18 0 141073 2 2 0 0
-/wp-content/uploads/2015/02/disruptive-tech-150x150.png
-1 8 0 415452 0 0 0 0
+0 1 0 108102 0 0 0 0
 /category/slider/
-0 2 0 10523 1 1 0 0
+0 7 0 66088 0 0 0 0
 /wp-content/themes/openstrap/inc/admin/images/sidebar-content.png
-1 18 0 6838 0 0 0 0
+1 5 0 2540 0 0 0 0
+/wp-content/plugins/lightbox-plus/admin/images/aflt-100x26-digwp.jpg
+1 2 0 5227 0 0 0 0
 /for-student/map/
-0 15 0 118543 1 2 0 0
+0 19 0 169316 5 4 0 0
 /wp-content/uploads/2015/02/21.jpg
-1 10 0 3112462 0 0 0 0
-/wp-content/themes/openstrap/images/optin/name.png
-1 12 0 11243 0 0 0 0
-/wp-content/themes/dazzling/screenshot.png
-1 1 0 181 0 0 0 0
-/wp-content/uploads/2015/02/image0071-150x150.jpg
-1 4 0 15177 0 0 0 0
+1 2 0 1037247 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/ie.png
+1 6 0 3249 0 0 0 0
+/wp-content/uploads/2015/02/obiednan_gromad.pdf
+0 3 0 1056501 0 0 0 0
+/wp-includes/wlwmanifest.xml
+0 1 0 802 0 0 0 0
 /wp-includes/images/wpspin-2x.gif
-1 2 0 18838 0 0 0 0
-/wp-content/themes/wp-strapfolio/css/carousel.css
-0 356 0 447552 0 0 0 0
-/wp-content/themes/a1/css/bootstrap.min.css
-0 2 0 36940 0 0 0 0
+1 4 0 37676 0 0 0 0
 /wp-content/uploads/2015/02/19.jpg
-1 10 0 2205268 0 0 0 0
+1 2 0 734849 0 0 0 0
 /wp-includes/js/tinymce/skins/wordpress/wp-content.css
-0 193 0 655042 0 0 0 0
-/wp-content/plugins/easing-slider/images/nav-icon-active@2x.png
-1 1 0 1695 0 0 0 0
+0 51 0 173098 0 0 0 0
 /wp-includes/css/editor.min.css
-0 264 0 1669128 0 0 0 0
-/wp-content/themes/writerstrap/includes/js/skip-link-focus-fix.js
-0 31 0 22693 0 0 0 0
-/wp-content/themes/advertica-lite/SketchBoard/includes/images/sketch-logo.png
-1 1 0 56327 0 0 0 0
-/wp-content/themes/wix/screenshot.png
-1 21 0 2709815 0 0 0 0
+0 110 0 695472 0 0 0 0
 /international-relations/foreign-partners/
-0 17 0 151751 0 1 0 0
-/wp-content/plugins/a3-responsive-slider/admin/includes/uploader/uploader-script.js
-0 1 0 1281 0 0 0 0
-/wp-content/themes/wix/theme-option/js/media-uploader.js
-0 5 0 17665 0 0 0 0
+0 12 0 143392 2 2 0 0
+/wp-includes/js/jquery/ui/dialog.min.js
+0 24 0 97297 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/galicia.png
+1 6 0 3794 0 0 0 0
 /wp-content/uploads/2015/02/image0021-212x300.jpg
-1 14 0 110331 0 0 0 0
-/wp-content/plugins/a3-responsive-slider/admin/assets/js/chosen/chosen.min.css
-0 5 0 12220 0 0 0 0
-/wp-content/themes/bootstrap-basic/style.css
-0 7 0 6646 0 0 0 0
-/wp-content/themes/writerstrap/style.css
-0 31 0 104492 0 0 0 0
+1 4 0 86964 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/googleicon.png
+1 16 0 16039 0 0 0 0
+/wp-content/plugins/social-media-tabs/inc/images/dcsnt_250_125.png
+1 2 0 23609 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/framed/sample.jpg
+1 2 0 22218 0 0 0 0
 /wp-content/themes/academica-wpcom/screenshot.png
-1 18 0 3339017 0 0 0 0
+1 3 0 910293 0 0 0 0
 /wp-content/uploads/2015/02/13.jpg
-1 10 0 1711132 0 0 0 0
-/wp-content/themes/a1/theme-options/js/a1-custom.js
-0 4 0 6210 0 0 0 0
-/wp-content/themes/a1/css/font-awesome.css
-0 2 0 12856 0 0 0 0
-/manual/style/css/manual-print.css
-0 3 0 10279 0 0 0 0
-/wp-content/themes/wp-strapfolio/js/twitter-bootstrap-hover-dropdown.js
-0 448 0 851955 0 0 0 0
+1 2 0 570137 0 0 0 0
+/about/achievements/attachment/7/
+0 1 0 9453 1 1 0 0
+/about/achievements/attachment/9/
+0 1 0 9453 0 1 0 0
 /wp-content/uploads/2015/02/4.jpg
-1 10 0 2480254 0 0 0 0
+1 1 0 413256 0 0 0 0
 /2015/02/05/media/
-0 5 0 29488 2 1 0 0
-/wp-content/themes/openstrap/css/style1/bootstrap.css
-0 4 0 75198 0 0 0 0
+0 12 0 117752 1 1 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/so.png
+1 6 0 3948 0 0 0 0
+/wp-content/plugins/social-media-tabs/js/jquery.admin.js
+0 4 0 2048 0 0 0 0
 /wp-content/themes/openstrap/js/bootstrap.min.js
-0 598 0 4546015 0 0 0 0
-/wp-content/uploads/2015/02/image0061-150x150.jpg
-1 4 0 15172 0 0 0 0
-/wp-content/themes/bootstrap-basic/js/vendor/bootstrap.min.js
-0 7 0 67013 0 0 0 0
+0 686 0 5214992 0 0 0 0
+/about/license/image012/
+0 1 0 8664 1 1 0 0
 /wp-admin/
-0 78 0 1064520 9 3 0 0
-/wp-content/plugins/a3-responsive-slider/admin/assets/js/chosen/chosen.jquery.min.js
-0 10 0 66490 0 0 0 0
-/wp-content/uploads/2015/02/header1-300x128.png
-1 6 0 513559 0 0 0 0
+0 41 0 571856 2 0 0 0
+/wp-content/uploads/2015/02/image0081.jpg
+1 1 0 148039 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/textframe/sample.jpg
+1 2 0 22532 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/lightweight/sample.jpg
+1 2 0 21048 0 0 0 0
 /wp-includes/js/tinymce/plugins/fullscreen/plugin.min.js
-0 196 0 195412 0 0 0 0
-/wp-content/themes/big-brother-wpcom/js/customizer.js
-0 15 0 10786 0 0 0 0
-/wp-content/plugins/easing-slider/images/widget-screenshot.jpg
-1 1 0 17855 0 0 0 0
+0 46 0 45862 0 0 0 0
 /wp-content/uploads/2015/02/image014-300x212.jpg
-1 8 0 109758 0 0 0 0
+1 5 0 91160 0 0 0 0
 /job-training/institutes/
-0 1 0 8638 0 0 0 0
-/wp-content/plugins/easing-slider/images/nav-icon-inactive@2x.png
-1 1 0 1825 0 0 0 0
+0 22 0 208974 3 2 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/lt.png
+1 6 0 3294 0 0 0 0
 /wp-content/themes/openstrap/screenshot.png
-1 9 0 3142613 0 0 0 0
+1 3 0 1178412 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/uz.png
+1 6 0 4098 0 0 0 0
 /wp-content/uploads/2015/02/image0021-722x1024.jpg
-1 27 0 441964 0 0 0 0
-/wp-content/plugins/multilanguage/images/flags/en_US.png
-1 4 0 3529 0 0 0 0
+1 1 0 218719 0 0 0 0
 /wp-admin/load-styles.php
-0 75 0 5548056 0 6 0 0
-/wp-content/themes/a1/fonts/opensans-regular-webfont.woff
-0 1 0 25036 0 0 0 0
-/wp-content/themes/wix/js/base.js
-0 3 0 2007 0 0 0 0
+0 17 0 1256460 0 1 0 0
+/tag/news/feed/
+0 5 0 7117 0 0 0 0
 /job-training/the-set-of-measures-on-the-educational-process/
-0 21 0 497084 0 0 0 0
-/wp-content/themes/writerstrap/screenshot.png
-1 21 0 2237757 0 0 0 0
-/wp-content/themes/a1/fonts/opensans-bold-webfont.woff
-0 1 0 25836 0 0 0 0
+0 15 0 647596 2 3 0 0
 /wp-content/uploads/2015/02/22.jpg
-1 10 0 2783416 0 0 0 0
-/wp-content/themes/twentyfifteen/js/customize-preview.js
-0 3 0 2184 0 0 0 0
-/manual/style/css/manual-loose-100pc.css
-0 3 0 4334 0 0 0 0
-/wp-includes/js/masonry.min.js
-0 4 0 35009 0 0 0 0
-/wp-content/plugins/google-sitemap-generator/img/icon-bing.gif
-1 3 0 1884 0 0 0 0
-/wp-content/plugins/a3-responsive-slider/assets/js/admin_slider.js
-0 4 0 10792 0 0 0 0
-/wp-content/themes/a1/js/default.js
-0 2 0 1814 0 0 0 0
+1 2 0 927565 0 0 0 0
+/wp-content/plugins/simple-share-buttons-adder/js/ssba_admin.js
+0 1 5 1789 0 0 0 0
+/wp-includes/js/jquery/ui/button.min.js
+0 24 0 58513 0 0 0 0
+/tag/news/
+0 12 0 111856 3 1 0 0
 /wp-admin/users.php
-0 9 0 86338 0 0 0 0
-/test-test/feed/
-0 1 0 923 1 1 0 0
-/wp-admin/edit-tags.php
-0 13 0 126805 0 0 0 0
-/wp-content/themes/city-informer/js/slider.js
-0 16 0 67555 0 0 0 0
-/wp-content/uploads/2015/02/Gerb_ТДМУ-236x300.png
-1 2 0 248842 0 0 0 0
-/wp-content/plugins/google-sitemap-generator/img/icon-yahoo.gif
-1 3 0 1108 0 0 0 0
-/about/license/image005-2/
-0 1 0 6925 0 0 0 0
-/wp-content/themes/advertica-lite/SketchBoard/includes/images/fullscreen-mac-420px.png
-1 1 0 93096 0 0 0 0
-/manual/da/mod/mod_dav_lock.html
-0 1 0 3326 1 1 0 0
+0 6 0 61216 1 0 0 0
+/wp-content/plugins/social-media-tabs/css/images/twitter.png
+1 223 0 159344 0 0 0 0
+/wp-content/plugins/simple-share-buttons-adder/buttons/simple/print.png
+1 6 0 3373 0 0 0 0
+/wp-content/plugins/social-media-tabs/css/images/pinterest.png
+1 2 0 5358 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/mg.png
+1 6 0 3129 0 0 0 0
+/about/license/image015/
+0 1 0 8665 0 1 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/bg.png
+1 6 0 3179 0 0 0 0
 /wp-content/plugins/easing-slider/js/jquery.easingslider.min.js
-0 787 0 1362329 0 0 0 0
+0 538 0 1055040 0 0 0 0
 /wp-includes/js/zxcvbn.min.js
-0 8 0 2645968 0 0 0 0
+0 3 0 992238 0 0 0 0
 /wp-content/themes/openstrap/inc/admin/images/sidebar-sidebar-content.png
-1 18 0 9406 0 0 0 0
-/wp-content/themes/city-informer/fonts/Share/Share-Regular.woff
-0 9 0 312084 0 0 0 0
-/wp-content/themes/advertica-lite/js/jquery.easing.1.3.js
-0 8 0 18552 0 0 0 0
-/wp-content/plugins/easing-slider/images/nav-icon-active.png
-1 59 0 75952 0 0 0 0
-/2015/
-0 2 0 9469 1 2 0 0
-/manual/fr/mod/mod_session_cookie.html
-0 1 0 4134 1 0 0 0
+1 5 0 3705 0 0 0 0
+/home/
+0 8 0 70553 3 2 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/jp.png
+1 6 0 3129 0 0 0 0
 /favicon.ico
-0 710 0 258092 0 0 0 0
+0 46 0 114445 0 0 0 0
+/wp-content/plugins/lightbox-plus/admin/images/help.png
+1 2 0 2138 0 0 0 0
 /wp-content/uploads/2015/02/image0041-722x1024.jpg
-1 27 0 539179 0 0 0 0
+1 2 0 534654 0 0 0 0
 /wp-content/plugins/google-language-translator/js/jquery-ui-sortable.js
-0 29 0 324951 0 0 0 0
-/wp-content/themes/advertica-lite/css/fonts/OpenSansBold-webfont.woff
-0 2 0 127728 0 0 0 0
-/wp-includes/js/tinymce/skins/lightgray/img/object.gif
-1 2 0 868 0 0 0 0
-/uk/
-0 2 0 10389 1 0 0 0
+0 1 0 11206 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/va.png
+1 6 0 3649 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/ht.png
+1 6 0 3194 0 0 0 0
+/wp-content/uploads/2015/02/image013.jpg
+1 1 0 149526 0 0 0 0
 /wp-content/uploads/2015/02/11.jpg
-1 10 0 2741026 0 0 0 0
+1 2 0 913435 0 0 0 0
 /wp-includes/js/imgareaselect/imgareaselect.css
-0 427 0 256036 0 0 0 0
+0 131 0 78548 0 0 0 0
+/sitemap-pt-page-2015-03.html
+0 3 0 8149 1 1 0 0
 /wp-content/uploads/2015/02/1.jpg
-1 10 0 484198 0 0 0 0
-/wp-content/themes/twentythirteen/screenshot.png
-1 14 0 703455 0 0 0 0
+1 4 0 322320 0 0 0 0
 /wp-includes/js/tinymce/plugins/hr/plugin.min.js
-0 196 0 105647 0 0 0 0
+0 46 0 24798 0 0 0 0
 /wp-content/plugins/easing-slider/js/editor-pages.min.js
-0 9 0 33593 0 0 0 0
+0 1 0 3762 0 0 0 0
 /wp-content/plugins/a3-responsive-slider/assets/js/jquery.cycle2.min.js
-0 16 0 117042 0 0 0 0
+0 1 0 7315 0 0 0 0
 /wp-content/uploads/sass/a3_responsive_slider.min.css
-0 23 0 32463 0 0 0 0
-/wp-content/themes/city-informer/fonts/Open_Sans/OpenSans-Italic.woff
-0 9 0 732018 0 0 0 0
-/wp-content/plugins/google-language-translator/js/toolbar.js
-0 1026 0 2332178 0 0 0 0
+0 2 0 2823 0 0 0 0
+/wp-content/plugins/google-custom-search/css/smoothness/images/ui-bg_flat_0_aaaaaa_40x100.png
+1 1 0 494 0 0 0 0
 /wp-content/plugins/a3-responsive-slider/assets/css/a3_wp_admin.css
-0 696 0 467310 0 0 0 0
-/wp-content/themes/a1/fonts/fontawesome-webfont.woff
-0 1 0 84061 0 0 0 0
+0 318 0 213584 0 0 0 0
 /international-relations/intrenational-training/
-0 2 0 17138 1 0 0 0
-/test2/feed/
-0 1 0 917 0 1 0 0
-/wp-includes/css/admin-bar.min.css
-0 645 0 2469434 0 0 0 0
+0 18 0 273588 4 2 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/ge.png
+1 6 0 4054 0 0 0 0
 /about/license/image001-2/
-0 2 0 13765 0 0 0 0
+0 1 0 8667 1 1 0 0
+/wp-includes/css/admin-bar.min.css
+0 489 0 1872209 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/teal/sample.jpg
+1 2 0 22768 0 0 0 0
 /wp-content/uploads/2015/02/image017-300x212.jpg
-1 8 0 110806 0 0 0 0
-/manual/ko/mod/mod_auth_digest.html
-0 1 0 5973 1 1 0 0
+1 5 0 92036 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/mk.png
+1 6 0 3839 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/fr.png
+1 6 0 3424 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/sa.png
+1 6 0 3736 0 0 0 0
 /wp-includes/images/uploader-icons.png
 1 3 0 5522 0 0 0 0
 /for-student/campus/
-0 8 0 64793 0 0 0 0
+0 19 0 169141 3 4 0 0
+/wp-content/plugins/lightbox-plus/css/lightweight/images/loading.gif
+1 7 0 67986 0 0 0 0
+/wp-content/uploads/2015/02/image0082-300x202.jpg
+1 4 0 77814 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/css/transposh.css
+0 23 0 13181 0 0 0 0
 /wp-admin/admin.php
-0 12 0 207382 0 0 0 0
+0 92 0 819892 1 0 0 0
+/wp-content/uploads/2015/02/image009.jpg
+1 2 0 295426 0 0 0 0
 /wp-content/themes/bootstrap-basic/screenshot.png
-1 24 0 2175197 0 0 0 0
-/wp-content/themes/a1/js/owl.carousel.min.js
-0 2 0 13684 0 0 0 0
-/wp-content/themes/twentyfifteen/genericons/genericons.css
-0 4 0 67669 0 0 0 0
-/wp-content/plugins/a3-responsive-slider/admin/assets/js/tipTip/tipTip.css
-0 5 0 5070 0 0 0 0
+1 3 0 434712 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/kr.png
+1 6 0 4124 0 0 0 0
+/wp-content/uploads/2015/02/avatar.png
+1 35 0 125055 0 0 0 0
 /wp-includes/js/tinymce/skins/lightgray/skin.min.css
-0 193 0 1228831 0 0 0 0
-/wp-content/themes/writerstrap/includes/js/bootstrap-wp.js
-0 31 0 27312 0 0 0 0
+0 46 0 292882 0 0 0 0
 /wp-content/uploads/2015/02/image003-300x200.jpg
-1 19 0 137460 0 0 0 0
-/wp-content/uploads/2015/02/image012-150x150.jpg
-1 4 0 14657 0 0 0 0
+1 8 0 180154 0 0 0 0
+/category/slider/feed/
+0 5 0 5744 0 1 0 0
 /wp-includes/js/tinymce/plugins/lists/plugin.min.js
-0 196 0 591342 0 0 0 0
-/wp-admin/install.php
-0 2 0 4186 0 0 0 0
+0 46 0 138788 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/it.png
+1 6 0 2994 0 0 0 0
 /wp-content/uploads/2015/02/29-210x300.jpg
-1 20 0 555976 0 0 0 0
+1 13 0 761845 0 0 0 0
+/wp-content/plugins/social-media-tabs/inc/images/rss.png
+1 2 0 8652 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/mm.png
+1 6 0 3269 0 0 0 0
 /wp-content/uploads/2015/02/6-200x300.jpg
-1 16 0 434955 0 0 0 0
-/wp-content/plugins/a3-responsive-slider/admin/includes/uploader/uploader.css
-0 1 0 665 0 0 0 0
-/about/license/image002-2/
-0 2 0 13852 0 0 0 0
-/wp-content/themes/twentyfifteen/style.css
-0 4 0 55814 0 0 0 0
+1 11 0 488062 0 0 0 0
+/wp-content/plugins/social-media-tabs/inc/images/linkedin.png
+1 2 0 7932 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/th.png
+1 6 0 3654 0 0 0 0
+/wp-content/plugins/simple-share-buttons-adder/buttons/simple/google.png
+1 6 0 4074 0 0 0 0
+/wp-content/uploads/2015/02/image004.jpg
+1 2 0 42010 0 0 0 0
+/wp-content/themes/openstrap/fonts/fontawesome-webfont.ttf
+0 1 2 79338 0 0 0 0
 /wp-admin/plugin-editor.php
-0 5 0 67788 0 0 0 0
+0 3 0 46694 0 0 0 0
+/wp-content/plugins/social-media-tabs/inc/images/dribbble.png
+1 2 0 9722 0 0 0 0
 /wp-content/uploads/2015/02/image007-192x300.jpg
-1 14 0 93020 0 0 0 0
+1 8 0 146233 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/ph.png
+1 6 0 3654 0 0 0 0
 /wp-content/uploads/2015/02/2-207x300.jpg
-1 16 0 442083 0 0 0 0
-/wp-content/plugins/a3-responsive-slider/admin/assets/js/tipTip/jquery.tipTip.min.js
-0 5 0 10275 0 0 0 0
-/wp-content/themes/wix/css/media.css
-0 3 0 4558 0 0 0 0
-/wp-includes/js/hoverIntent.min.js
-0 8 0 6520 0 0 0 0
+1 11 0 496081 0 0 0 0
+/wp-content/uploads/2015/02/customLogo.png
+1 16 0 491051 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/lightweight/colorbox.css
+0 740 0 1032358 0 0 0 0
+/wp-content/plugins/social-media-tabs/inc/images/digg.png
+1 2 0 8324 0 0 0 0
 /wp-content/uploads/2015/02/3-199x300.jpg
-1 16 0 314147 0 0 0 0
-/wp-content/themes/advertica-lite/js/custom.js
-0 8 0 13744 0 0 0 0
+1 11 0 352153 0 0 0 0
+/wp-content/uploads/2015/02/image0072-300x236.jpg
+1 4 0 274629 0 0 0 0
 /international-relations/
-0 3 0 27058 0 0 0 0
-/wp-includes/js/imgareaselect/border-anim-v.gif
-1 1 0 460 0 0 0 0
+0 15 0 135473 3 2 0 0
 /wp-admin/update.php
-0 21 0 115314 4 0 0 0
-/wp-content/uploads/2015/02/Gerb_ТДМУ2.png
-1 146 0 3181284 0 0 0 0
-/manual/es/mod/mod_session_dbd.html
-0 1 0 5503 1 1 0 0
-/wp-content/uploads/2015/02/logo_ТДМУ2.png
-1 57 0 1395640 0 0 0 0
+0 5 0 24205 2 0 0 0
+/wp-content/plugins/lightbox-plus/admin/images/ui-bg_glass_65_ffffff_1x400.png
+1 2 0 774 0 0 0 0
+/about/achievements/attachment/17/
+0 1 0 9459 0 1 0 0
+/wp-content/uploads/2015/02/elektronniy_vid-1.pdf
+0 2 0 185494 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/pk.png
+1 6 0 4362 0 0 0 0
 /wp-content/uploads/2015/02/28.jpg
-1 10 0 1809326 0 0 0 0
-/wp-content/uploads/2015/02/image017-150x150.jpg
-1 4 0 15256 0 0 0 0
-/wp-content/themes/wix/theme-option/images/fb.png
-1 1 0 4969 0 0 0 0
-/wp-content/plugins/a3-responsive-slider/admin/assets/js/iphone-style-checkboxes.js
-0 5 0 16180 0 0 0 0
+1 3 0 1085053 0 0 0 0
+/wp-content/plugins/google-custom-search/css/smoothness/images/ui-icons_222222_256x240.png
+1 4 0 28829 0 0 0 0
+/wp-content/plugins/lightbox-plus/admin/images/ui-bg_glass_95_fef1ec_1x400.png
+1 2 0 802 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/cn.png
+1 6 0 3314 0 0 0 0
+/job-training/institutes/institute-of-nursing/
+0 4 0 36963 0 0 0 0
 /wp-content/uploads/2015/02/18.jpg
-1 10 0 2060212 0 0 0 0
+1 2 0 686497 0 0 0 0
 /wp-admin/edit.php
-0 78 0 1022929 0 0 0 0
+0 32 0 455472 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/nz.png
+1 6 0 4239 0 0 0 0
 /wp-admin/options-writing.php
-0 5 0 46170 0 0 0 0
+0 1 7 8982 0 0 0 0
+/wp-includes/js/jquery/ui/draggable.min.js
+0 24 0 128426 0 0 0 0
+/wp-content/uploads/2015/02/disruptive-tech2-300x76.png
+1 4 0 239354 0 0 0 0
 /wp-content/plugins/google-language-translator/css/jquery-ui.css
-0 29 0 5754 0 0 0 0
+0 1 0 278 0 0 0 0
 /wp-content/uploads/2015/02/25.jpg
-1 10 0 2265134 0 0 0 0
-/wp-content/themes/wix/js/default.js
-0 5 0 4063 0 0 0 0
-/wp-content/uploads/2015/02/image009-150x150.jpg
-1 4 0 15271 0 0 0 0
-/wp-content/themes/big-brother-wpcom/style.css
-0 54 0 404868 0 0 0 0
+1 4 0 1509606 0 0 0 0
+/wp-includes/js/jquery/ui/mouse.min.js
+0 24 0 33098 0 0 0 0
+/wp-content/plugins/social-media-tabs/inc/images/delicious.png
+1 2 0 7266 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/overtext/sample.jpg
+1 2 0 21604 0 0 0 0
+/wp-content/uploads/2015/03/customLogosite.png
+1 15 0 164060 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/ir.png
+1 6 0 4050 0 0 0 0
 /2015/02/05/tdmupic/
-0 4 0 22784 2 1 0 0
-/wp-content/themes/writerstrap/inc/js/media-uploader.js
-0 4 0 5224 0 0 0 0
-/wp-content/themes/bootstrap-basic/css/flexvideo.css
-0 5 0 3430 0 0 0 0
-/wp-content/plugins/a3-responsive-slider/admin/assets/fonts/a3-plugin-framework.woff
-0 1 0 4831 0 0 0 0
+0 15 0 149304 4 4 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/pt.png
+1 6 0 4140 0 0 0 0
 /wp-content/uploads/2015/02/7.jpg
-1 10 0 2488186 0 0 0 0
-/wp-content/plugins/a3-responsive-slider/admin/assets/js/chosen/chosen-sprite.png
-1 4 0 2216 0 0 0 0
-/wp-content/plugins/a3-responsive-slider/assets/css/admin_slider.css
-0 4 0 11365 0 0 0 0
+1 3 0 1243733 0 0 0 0
 /wp-includes/css/dashicons.min.css
-0 885 0 24471515 0 0 0 0
+0 559 0 15457214 0 0 0 0
 /wp-content/plugins/google-language-translator/js/jquery-ui-widget.js
-0 29 0 144107 0 0 0 0
+0 1 0 4970 0 0 0 0
 /wp-includes/js/customize-base.min.js
-0 321 0 781967 0 0 0 0
-/wp-content/themes/wix/theme-option/js/fasterthemes-custom.js
-0 5 0 6145 0 0 0 0
-/wp-admin/images/align-left-2x.png
-1 1 0 426 0 0 0 0
+0 28 0 68208 0 0 0 0
 /wp-includes/js/tinymce/tinymce.min.js
-0 199 0 20435540 0 0 0 0
+0 75 0 7701839 0 0 0 0
 /wp-includes/images/media/document.png
-1 4 0 1928 0 0 0 0
-/wp-content/themes/advertica-lite/css/bootstrap-responsive.css
-0 8 0 45765 0 0 0 0
-/wp-content/themes/bootstrap-basic/js/vendor/modernizr.min.js
-0 7 0 46538 0 0 0 0
+1 4 0 1929 0 0 0 0
+/sitemap-pt-post-2015-02.xml
+0 5 0 4870 0 0 0 0
 /wp-content/uploads/2015/02/image0031-722x1024.jpg
-1 27 0 447843 0 0 0 0
-/manual/en/mod/mod_auth_digest.html
-0 1 0 5074 1 1 0 0
+1 3 0 664977 0 0 0 0
 /wp-content/plugins/google-apps-login/img/basic_loginupgrade.png
-1 4 0 150575 0 0 0 0
-/manual/style/css/manual.css
-0 3 0 13368 0 0 0 0
-/wp-includes/js/comment-reply.min.js
-0 25 0 18852 0 0 0 0
-/wp-content/themes/wp-strapfolio/css/app-responsive.css
-0 448 0 2051107 0 0 0 0
-/wp-content/themes/a1/js/bootstrap.min.js
-0 2 0 17538 0 0 0 0
-/wp-content/themes/city-informer/images/search-button.jpg
-1 16 0 207095 0 0 0 0
-/wp-content/themes/city-informer/images/sidebar-line.jpg
-1 16 0 197156 0 0 0 0
-/wp-content/uploads/2015/02/Gerb_ТДМУ.png
-1 4 0 5722292 0 0 0 0
-/wp-content/uploads/2015/02/image0081-150x150.jpg
-1 4 0 15133 0 0 0 0
+1 1 0 50131 0 0 0 0
+/category/tsmu/news/feed/
+0 4 0 5694 0 0 0 0
+/tag/ого/feed/
+0 6 0 9015 1 2 0 0
+/wp-content/plugins/lightbox-plus/css/facebook/sample.jpg
+1 2 0 18540 0 0 0 0
+/wp-content/plugins/social-media-tabs/inc/images/pinterest.png
+1 2 0 4638 0 0 0 0
+/wp-content/plugins/social-media-tabs/css/images/dc_icon32.png
+1 2 0 4332 0 0 0 0
+/wp-admin/revision.php
+0 3 2 32385 0 0 0 0
 /wp-content/uploads/2015/02/21-208x300.jpg
-1 20 0 535902 0 0 0 0
+1 11 0 600806 0 0 0 0
 /wp-includes/js/jquery/jquery-migrate.min.js
-0 1231 0 4207681 0 0 0 0
-/wp-includes/js/zxcvbn-async.min.js
-0 5 0 2902 0 0 0 0
+0 732 0 2502015 0 0 0 0
 /wp-includes/js/tinymce/plugins/compat3x/plugin.min.js
-0 199 0 405580 0 0 0 0
-/wp-content/themes/twentythirteen/style.css
-0 1 0 11498 0 0 0 0
-/wp-content/plugins/a3-responsive-slider/admin/assets/css/admin-flat-ui-style.min.css
-0 5 0 6985 0 0 0 0
-/wp-content/plugins/google-sitemap-generator/img/icon-donate.gif
-1 3 0 3420 0 0 0 0
+0 75 0 152861 0 0 0 0
 /wp-content/plugins/google-apps-login/img/basic_aioi.png
-1 5 0 201868 0 0 0 0
-/wp-content/plugins/google-sitemap-generator/img/icon-amazon.gif
-1 3 0 1578 0 0 0 0
-/wp-content/themes/city-informer/fonts/Open_Sans/OpenSans-ExtraBold.woff
-0 9 0 794329 0 0 0 0
-/manual/da/mod/mod_usertrack.html
-0 1 0 4194 1 1 0 0
-/wp-content/themes/wix/js/bootstrap.js
-0 3 0 34389 0 0 0 0
+1 1 0 50422 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/tr.png
+1 6 0 3876 0 0 0 0
+/wp-content/plugins/press-permit-core/admin/js/pp.js
+0 27 0 25393 0 0 0 0
+/wp-content/plugins/social-media-tabs/css/dcsmt.css
+0 255 0 640065 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/mw.png
+1 6 0 3419 0 0 0 0
 /2015/02/09/media1/
-0 4 0 21825 1 1 0 0
-/wp-content/themes/writerstrap/includes/js/customizer.js
-0 10 0 7190 0 0 0 0
+0 17 0 165958 2 3 0 0
 /about/ternopil-state/
-0 5 0 36327 0 0 0 0
+0 20 0 177940 5 5 0 0
 /wp-content/plugins/google-language-translator/js/load-sortable-flags.js
-0 29 0 17958 0 0 0 0
-/manual/pt-br/mod/mod_authn_dbm.html
-0 1 0 3779 1 1 0 0
+0 1 0 619 0 0 0 0
 /wp-admin/post-new.php
-0 64 0 2105422 1 0 0 0
-/wp-content/uploads/2015/02/disruptive-tech-300x79.png
-1 6 0 317587 0 0 0 0
-/wp-content/themes/a1/css/media.css
-0 2 0 4028 0 0 0 0
-/wp-content/plugins/a3-responsive-slider/assets/fonts/a3imageslider.woff
-0 2 0 4636 0 0 0 0
-/wp-content/themes/advertica-lite/css/superfish.css
-0 8 0 14172 0 0 0 0
+0 10 0 341042 0 0 0 0
 /sitemap-pt-page-2015-02.xml
-0 1 0 1771 0 0 0 0
+0 10 0 20426 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/kh.png
+1 6 0 3669 0 0 0 0
 /wp-content/plugins/a3-responsive-slider/assets/css/admin_sidebar_menu.css
-0 696 0 957440 0 0 0 0
+0 318 0 437463 0 0 0 0
+/about/achievements/attachment/11/
+0 1 0 9451 1 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/ua.png
+1 6 0 3516 0 0 0 0
 /wp-content/uploads/2015/02/23-207x300.jpg
-1 20 0 423674 0 0 0 0
+1 11 0 474562 0 0 0 0
 /wp-content/themes/openstrap/inc/admin/images/default-style.png
-1 18 0 133591 0 0 0 0
-/wp-content/themes/city-informer/js/fileinput.js
-0 16 0 25075 0 0 0 0
+1 5 0 60150 0 0 0 0
 /for-student/activities/
-0 8 0 97815 0 0 0 0
-/wp-admin/upgrade.php
-0 1 6443 366 1 1 0 0
-/manual/pt-br/mod/mod_slotmem_plain.html
-0 1 0 2879 1 1 0 0
-/wp-content/uploads/2015/02/header1.png
-1 37 0 7547447 0 0 0 0
-/wp-content/themes/wp-strapfolio/css/style.css
-0 448 0 2072213 0 0 0 0
-/wp-content/themes/wp-strapfolio/js/navigation.js
-0 448 0 330797 0 0 0 0
+0 14 0 236657 2 1 0 0
+/wp-content/plugins/press-permit-core/admin/css/pp.css
+0 28 0 40566 0 0 0 0
+/wp-includes/js/jquery/ui/core.min.js
+0 24 0 52130 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/gr.png
+1 6 0 3529 0 0 0 0
+/sitemap.html
+0 3 0 8482 2 0 0 0
 /wp-content/themes/openstrap/inc/admin/images/style2.png
-1 18 0 124650 0 0 0 0
-/wp-content/themes/writerstrap/includes/resources/glyphicons/css/bootstrap-glyphicons.css
-0 31 0 59294 0 0 0 0
-/wp-content/themes/advertica-lite/css/fonts/OpenSans-Semibold-webfont.woff
-0 2 0 28704 0 0 0 0
-/wp-content/plugins/a3-responsive-slider/assets/js/cycle2-extensions/jquery.cycle2.shuffle.min.js
-0 5 0 4440 0 0 0 0
-/manual/da/mod/mod_lbmethod_bytraffic.html
-0 1 0 2958 1 1 0 0
+1 5 0 56086 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/ru.png
+1 6 0 3468 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/no.png
+1 6 0 4032 0 0 0 0
+/wp-content/uploads/2015/02/image007.jpg
+1 2 0 27642 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/purple/sample.jpg
+1 2 0 22934 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/bd.png
+1 6 0 3424 0 0 0 0
 /about/achievements/attachment/28/
-0 4 0 28774 0 0 0 0
+0 1 0 9461 1 0 0 0
 /wp-content/uploads/2015/02/plan_roboty.pdf
-0 17 0 10184902 0 0 0 0
-/manual/ja/mod/mod_lbmethod_bybusyness.html
-0 2 0 5682 2 2 0 0
+0 3 0 3259460 0 0 0 0
 /wp-content/uploads/2015/02/image0051.jpg
-1 1 0 155807 0 0 0 0
+1 1 0 155808 0 0 0 0
+/wp-content/uploads/2015/02/phis_osobi-1.pdf
+0 2 0 705079 0 0 0 0
 /wp-admin/tools.php
-0 5 0 39044 0 0 0 0
+0 3 0 24147 2 0 0 0
+/wp-includes/js/jquery/ui/resizable.min.js
+0 24 0 135552 0 0 0 0
 /category/uncategorized/feed/
-0 1 0 1271 0 1 0 0
+0 3 0 4073 0 1 0 0
 /wp-content/themes/big-brother-wpcom/screenshot.png
-1 18 0 2909066 0 0 0 0
-/manual/fr/mod/mod_privileges.html
-0 1 0 7554 1 1 0 0
-/manual/pt-br/mod/mod_authz_dbm.html
-0 1 0 3838 1 1 0 0
+1 3 0 726993 0 0 0 0
 /wp-includes/js/wp-util.min.js
-0 326 0 289828 0 0 0 0
+0 28 0 24893 0 0 0 0
 /category/uncategorized/
-0 4 0 21068 2 1 0 0
+0 8 0 77792 2 2 0 0
 /wp-content/uploads/2015/02/29.jpg
-1 10 0 2769880 0 0 0 0
-/wp-content/uploads/2015/02/cropped-header1.png
-1 1 0 240671 0 0 0 0
-/wp-content/uploads/2015/02/disruptive-tech-1024x271.png
-1 15 0 7230420 0 0 0 0
-/manual/en/mod/mod_session_dbd.html
-0 1 0 5503 1 1 0 0
-/wp-content/themes/wix/theme-option/css/fasterthemes_framework.css
-0 5 0 13483 0 0 0 0
+1 1 0 461526 0 0 0 0
+/wp-content/plugins/lightbox-plus/admin/images/ui-bg_glass_75_dadada_1x400.png
+1 1 0 394 0 0 0 0
 /wp-content/themes/openstrap/inc/admin/images/content-sidebar-sidebar.png
-1 18 0 8549 0 0 0 0
+1 5 0 3315 0 0 0 0
+/wp-content/plugins/google-custom-search/css/gsc.css
+0 26 0 25576 0 0 0 0
 /wp-content/uploads/2015/02/11-210x300.jpg
-1 16 0 501963 0 0 0 0
-/wp-content/themes/bootstrap-basic/js/main.js
-0 7 0 1821 0 0 0 0
+1 11 0 563446 0 0 0 0
 /about/rectors-word/
-0 7 0 52730 0 0 0 0
-/wp-content/uploads/2015/02/image016-150x150.jpg
-1 4 0 15516 0 0 0 0
-/wp-content/themes/advertica-lite/SketchBoard/includes/css/upsell.css
-0 1 0 1378 0 0 0 0
+0 16 0 146946 3 2 0 0
+/tag/ого/
+0 8 0 78765 0 0 0 0
+/sitemap-pt-page-2015-03.xml
+0 5 0 4075 0 0 0 0
 /wp-login.php
-0 43 0 102001 6 5 0 0
-/wp-content/uploads/2015/02/image014-150x150.jpg
-1 4 0 15154 0 0 0 0
-/manual/da/programs/htpasswd.html
-0 1 0 5238 1 1 0 0
-/sample-page/feed/
-0 1 0 1382 1 1 0 0
-/wp-admin/images/align-center-2x.png
-1 1 0 430 0 0 0 0
+0 10 0 30004 0 1 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/css/admin.css
+0 87 0 58244 0 0 0 0
+/category/tsmu/announcement/feed/
+0 5 0 8251 2 3 0 0
 /wp-includes/js/tinymce/plugins/media/plugin.min.js
-0 196 0 783828 0 0 0 0
+0 46 0 183959 0 0 0 0
 /wp-admin/css/login.min.css
-0 42 0 219131 0 0 0 0
-/manual/fr/programs/dbmmanage.html
-0 1 0 4784 1 1 0 0
-/wp-content/plugins/google-sitemap-generator/img/icon-paypal.gif
-1 3 0 1509 0 0 0 0
-/wp-content/themes/a1/theme-options/js/media-uploader.js
-0 4 0 5130 0 0 0 0
-/wp-content/themes/wix/css/base.css
-0 3 0 1381 0 0 0 0
-/wp-content/plugins/google-sitemap-generator/img/icon-trac.gif
-1 3 0 1607 0 0 0 0
-/test1/feed/
-0 1 0 917 1 0 0 0
+0 9 0 46959 0 0 0 0
+/wp-content/plugins/social-media-tabs/css/images/flickr.png
+1 2 0 3188 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/js/admin/contexthelp.js
+0 87 0 58326 0 0 0 0
 /wp-content/uploads/2015/02/image008.jpg
-1 14 0 80343 0 0 0 0
+1 9 0 141698 0 0 0 0
 /wp-content/themes/openstrap/fonts/fontawesome-webfont.woff
-0 246 0 7035001 0 0 0 0
-/wp-content/plugins/a3-responsive-slider/admin/assets/js/admin-ui-script.js
-0 5 0 10485 0 0 0 0
+0 260 0 4634462 0 0 0 0
 /2015/02/03/new-site/
-0 11 0 68518 5 4 0 0
-/wp-content/plugins/multilanguage/images/px.png
-1 1 0 179 0 0 0 0
-/wp-content/uploads/2015/02/logo2.png
-1 118 0 1893735 0 0 0 0
-/wp-content/uploads/2015/02/logo2-300x76.png
-1 8 0 133970 0 0 0 0
+0 20 0 194663 6 4 0 0
+/wp-admin/user-edit.php
+0 2 0 20180 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/al.png
+1 6 0 3761 0 0 0 0
+/wp-content/uploads/2015/02/slider_admin1.png
+1 182 0 56553431 0 0 0 0
 /wp-includes/js/tinymce/plugins/wordpress/plugin.min.js
-0 196 0 683845 0 0 0 0
-/wp-content/themes/openstrap/css/style1/custom.css
-0 4 0 2646 0 0 0 0
-/wp-content/themes/advertica-lite/SketchBoard/includes/images/irex-mac-420px.png
-1 1 0 113337 0 0 0 0
+0 46 0 160494 0 0 0 0
+/wp-content/uploads/2015/02/image0071.jpg
+1 1 0 147479 0 0 0 0
 /wp-includes/js/jquery/jquery.js
-0 1236 0 41508714 0 0 0 0
+0 744 0 24985808 0 0 0 0
 /wp-includes/js/tinymce/plugins/wpdialogs/plugin.min.js
-0 196 0 195412 0 0 0 0
+0 46 0 45862 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/dropshadow/sample.jpg
+1 2 0 21170 0 0 0 0
 /wp-content/plugins/a3-responsive-slider/assets/js/a3-rslider-frontend.js
-0 16 0 16689 0 0 0 0
-/wp-content/themes/big-brother-wpcom/js/skip-link-focus-fix.js
-0 53 0 38799 0 0 0 0
+0 1 0 1043 0 0 0 0
+/wp-content/plugins/press-permit-core/admin/images/menu/users-c.png
+1 2 0 2887 0 0 0 0
 /contacts/
-0 15 0 118914 1 2 0 0
+0 21 0 193586 5 6 0 0
 /medical-work/healing-and-diagnostic-center/
-0 2 0 17459 0 0 0 0
-/sample-page/
-0 12 0 77895 3 3 0 0
+0 16 0 143874 7 3 0 0
 /for-student/rules/
-0 14 0 211063 0 0 0 0
-/manual/da/mod/mod_proxy_scgi.html
-0 1 0 4125 1 1 0 0
-/wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js
-0 4 0 3173 0 0 0 0
-/wp-content/themes/writerstrap/inc/js/options-custom.js
-0 4 0 4816 0 0 0 0
+0 11 0 311182 3 3 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/kz.png
+1 6 0 3889 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/rtlicon.png
+1 6 0 4485 0 0 0 0
 /wp-content/themes/openstrap/inc/admin/images/sidebar-content-sidebar.png
-1 18 0 9460 0 0 0 0
-/wp-content/plugins/easing-slider/images/easingslider-badge.jpg
-1 1 0 8554 0 0 0 0
+1 5 0 3730 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/mn.png
+1 6 0 3289 0 0 0 0
 /wp-content/uploads/2015/02/image0011-722x1024.jpg
-1 27 0 367845 0 0 0 0
-/wp-admin/options-discussion.php
-0 5 0 43758 0 0 0 0
+1 1 0 181661 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/ohticon.png
+1 7 0 7454 0 0 0 0
 /wp-content/themes/openstrap/images/search-icon.png
-1 34 0 20295 0 0 0 0
-/wp-content/uploads/2015/02/5.jpg
-1 10 0 2269636 0 0 0 0
-/wp-includes/js/tinymce/plugins/colorpicker/plugin.min.js
-0 196 0 188554 0 0 0 0
-/wp-content/uploads/2015/02/27.jpg
-1 10 0 1727227 0 0 0 0
-/wp-content/uploads/2015/02/12.jpg
-1 10 0 2638138 0 0 0 0
-/wp-content/themes/advertica-lite/js/cbpAnimatedHeader.js
-0 8 0 12400 0 0 0 0
-/wp-includes/js/tinymce/plugins/wpeditimage/plugin.min.js
-0 196 0 1182076 0 0 0 0
-/wp-content/themes/wp-strapfolio/js/bootstrap-carousel2.3.1.js
-0 357 0 942523 0 0 0 0
-/wp-content/uploads/2015/02/14-222x300.jpg
-1 16 0 454868 0 0 0 0
-/wp-content/themes/wix/css/custom.css
-0 3 0 9186 0 0 0 0
-/wp-content/themes/advertica-lite/js/waypoints.min.js
-0 8 0 29304 0 0 0 0
-/wp-content/themes/twentythirteen/images/search-icon.png
 1 1 0 705 0 0 0 0
-/wp-content/plugins/footer-putter/images/add-link-category.jpg
-1 1 0 26548 0 0 0 0
-/manual/es/mod/mod_lbmethod_bybusyness.html
-0 1 0 2841 1 0 0 0
-/wp-content/themes/advertica-lite/SketchBoard/includes/images/sketchmini-mac-420px.png
-1 1 0 60381 0 0 0 0
-/wp-admin/images/w-logo-white.png
-1 8 0 31288 0 0 0 0
+/wp-content/uploads/2015/02/5.jpg
+1 2 0 756305 0 0 0 0
+/wp-content/uploads/2015/02/12.jpg
+1 2 0 879139 0 0 0 0
+/wp-includes/js/tinymce/plugins/colorpicker/plugin.min.js
+0 46 0 44255 0 0 0 0
+/wp-content/uploads/2015/02/27.jpg
+1 6 0 1726505 0 0 0 0
+/wp-includes/js/tinymce/plugins/wpeditimage/plugin.min.js
+0 46 0 278208 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/bingicon.png
+1 16 0 9083 0 0 0 0
+/wp-content/uploads/2015/02/image0082.jpg
+1 4 0 70423 0 0 0 0
+/wp-content/uploads/2015/02/14-222x300.jpg
+1 11 0 510463 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/dk.png
+1 6 0 3324 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/tj.png
+1 6 0 3852 0 0 0 0
 /wp-content/uploads/2015/02/10-206x300.jpg
-1 16 0 368971 0 0 0 0
-/wp-content/themes/city-informer/images/background.jpg
-1 16 0 244102 0 0 0 0
+1 11 0 413830 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/my.png
+1 6 0 3894 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/europeanunion.png
+1 6 0 4206 0 0 0 0
 /wp-content/plugins/a3-responsive-slider/assets/js/cycle2-extensions/jquery.cycle2.center.min.js
-0 16 0 13216 0 0 0 0
-/wp-content/uploads/2015/02/disruptive-tech.png
-1 94 0 15955853 0 0 0 0
-/wp-content/themes/minn-lite/style.css
-0 13 0 95749 0 0 0 0
+0 1 0 826 0 0 0 0
+/science/
+0 12 0 108367 4 2 0 0
 /wp-content/uploads/2015/02/image0011-212x300.jpg
-1 14 0 73870 0 0 0 0
+1 5 0 90081 0 0 0 0
 /wp-content/uploads/2015/02/9-207x300.jpg
-1 16 0 438859 0 0 0 0
+1 11 0 492454 0 0 0 0
 /wp-admin/images/wpspin_light-2x.gif
-1 11 0 103599 0 0 0 0
+1 8 0 56868 0 0 0 0
 /wp-includes/js/tinymce/skins/lightgray/content.min.css
-0 193 0 177946 0 0 0 0
+0 51 0 47025 0 0 0 0
 /science/vivarium/
-0 1 0 6817 0 0 0 0
-/manual/tr/mod/mod_vhost_alias.html
-0 1 0 5615 1 1 0 0
+0 11 0 99551 3 3 0 0
 /wp-content/plugins/a3-responsive-slider/assets/css/cycle.css
-0 16 0 28309 0 0 0 0
+0 1 0 1769 0 0 0 0
+/wp-content/plugins/lightbox-plus/js/lightbox.admin.js
+0 5 0 5382 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/js/lazy.js
+0 17 0 28972 0 0 0 0
+/wp-content/uploads/2015/03/customLogosite-300x77.png
+1 2 0 49770 0 0 0 0
 /wp-includes/images/spinner.gif
-1 4 0 17790 0 0 0 0
-/manual/da/mod/mod_session_crypto.html
-0 1 0 4710 1 0 0 0
+1 5 0 22238 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/il.png
+1 6 0 3209 0 0 0 0
 /wp-content/uploads/2015/02/6.jpg
-1 10 0 2599450 0 0 0 0
-/manual/es/mod/mod_proxy_wstunnel.html
-0 1 0 2451 1 1 0 0
-/manual/pt-br/ssl/ssl_compat.html
-0 1 0 4844 1 1 0 0
-/wp-includes/js/jquery/jquery.masonry.min.js
-0 4 0 4265 0 0 0 0
+1 2 0 866243 0 0 0 0
+/wp-content/uploads/2015/02/image0031.jpg
+1 1 0 181843 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/js/keyboard.js
+0 1 0 27111 0 0 0 0
 /wp-content/uploads/2015/02/image0031-212x300.jpg
-1 14 0 114752 0 0 0 0
-/wp-content/themes/city-informer/js/script.js
-0 16 0 21170 0 0 0 0
+1 4 0 90500 0 0 0 0
+/wp-content/plugins/lightbox-plus/admin/images/aflt-100x26-genesis.jpg
+1 2 0 8408 0 0 0 0
 /wp-content/plugins/google-language-translator/images/flags.png
-1 23 0 680589 0 0 0 0
-/wp-content/themes/writerstrap/css/font-awesome.css
-0 22 0 101684 0 0 0 0
+1 111 0 1330615 0 0 0 0
 /wp-includes/js/thickbox/loadingAnimation.gif
-1 31 0 251085 0 0 0 0
-/wp-content/themes/twentythirteen/js/functions.js
-0 1 0 1542 0 0 0 0
+1 17 0 217876 0 0 0 0
+/xmlrpc.php
+0 2 0 907 0 0 0 0
 /wp-content/uploads/2015/02/14.jpg
-1 10 0 2507380 0 0 0 0
+1 2 0 835553 0 0 0 0
+/wp-content/plugins/social-media-tabs/inc/images/tumblr.png
+1 2 0 8084 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/si.png
+1 6 0 3978 0 0 0 0
 /wp-content/uploads/2015/02/26-300x229.jpg
-1 22 0 604201 0 0 0 0
-/wp-content/themes/wix/theme-option/images/logo.png
-1 1 0 5268 0 0 0 0
+1 11 0 493089 0 0 0 0
+/wp-content/uploads/2015/02/image0041.jpg
+1 2 0 445313 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/rs.png
+1 6 0 3954 0 0 0 0
 /job-training/education-quality-standards/
-0 13 0 101519 0 2 0 0
+0 22 0 205602 3 4 0 0
+/wp-content/plugins/simple-share-buttons-adder/images/simple-share-buttons-mockups.jpg
+1 1 0 53233 0 0 0 0
+/sitemap-misc.html
+0 3 0 8513 2 0 0 0
 /2015/02/17/урааа-скоро-новий-сайт/
-0 10 0 81209 0 0 0 0
+0 15 0 149034 5 2 0 0
 /wp-content/uploads/2015/02/image001.jpg
-1 21 0 82754 0 0 0 0
-/wp-content/plugins/google-language-translator/images/flags16.png
-1 118 0 1703201 0 0 0 0
-/about/license/image006-2/
-0 1 0 6925 0 0 0 0
-/about/achievements/attachment/27/
-0 2 0 16043 0 0 0 0
-/wp-content/themes/advertica-lite/SketchBoard/includes/images/Foodeez-Theme.png
-1 1 0 129611 0 0 0 0
+1 8 0 106737 0 0 0 0
+/wp-content/uploads/2015/02/image017.jpg
+1 1 0 146370 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/js/l/ru.js
+0 1 0 1201 0 0 0 0
 /wp-content/uploads/2015/02/20.jpg
-1 10 0 2971198 0 0 0 0
-/manual/en/mod/mod_vhost_alias.html
-0 1 0 5268 1 1 0 0
-/wp-content/themes/city-informer/js/selectbox.js
-0 16 0 110820 0 0 0 0
+1 3 0 1485238 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/shadowed/sample.jpg
+1 2 0 21240 0 0 0 0
+/wp-content/plugins/social-media-tabs/inc/images/vimeo.png
+1 2 0 8274 0 0 0 0
 /wp-content/uploads/2015/02/3.jpg
-1 10 0 2102320 0 0 0 0
+1 2 0 700533 0 0 0 0
 /wp-admin/images/wordpress-logo.svg
-0 14 0 13917 0 0 0 0
-/wp-content/plugins/a3-responsive-slider/assets/images/playback-pause.png
-1 4 0 1947 0 0 0 0
-/wp-admin/js/user-profile.min.js
-0 5 0 7442 0 0 0 0
-/wp-content/plugins/easing-slider/images/welcome-screenshot.jpg
-1 1 0 134568 0 0 0 0
-/manual/da/mod/mod_remoteip.html
-0 1 0 5010 1 1 0 0
-/manual/pt-br/mod/mod_proxy_wstunnel.html
-0 1 0 2451 1 1 0 0
+0 6 0 9224 0 0 0 0
+/tag/announcement/
+0 10 0 102454 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/lv.png
+1 6 0 3249 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/np.png
+1 6 0 4020 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/se.png
+1 6 0 4014 0 0 0 0
+/job-training/institutes/institute-of-medical-and-biological-problems/
+0 2 0 18508 0 1 0 0
+/wp-content/plugins/lightbox-plus/css/simple-dark/sample.jpg
+1 2 0 22820 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/white/sample.jpg
+1 2 0 21888 0 0 0 0
 /wp-content/plugins/category-posts/cat-posts.css
-0 662 0 465089 0 0 0 0
+0 735 0 509848 0 0 0 0
+/wp-content/uploads/2015/02/education_standarts.pdf
+0 142 0 93347853 0 0 0 0
 /wp-content/themes/openstrap/inc/admin/images/style3.png
-1 18 0 122625 0 0 0 0
+1 5 0 55166 0 0 0 0
 /wp-includes/js/json2.min.js
-0 321 0 525488 0 0 0 0
-/wp-content/themes/wp-strapfolio/css/custom.css
-0 448 0 1476256 0 0 0 0
+0 30 0 49111 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/cz.png
+1 6 0 3384 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/red/sample.jpg
+1 2 0 23748 0 0 0 0
 /sitemap-misc.xml
-0 1 0 1003 0 0 0 0
+0 10 0 8451 0 0 0 0
 /wp-includes/js/tinymce/plugins/textcolor/plugin.min.js
-0 196 0 391218 0 0 0 0
-/wp-admin/images/align-right-2x.png
-1 1 0 425 0 0 0 0
-/wp-content/themes/minn-lite/images/sale30off-theme.png
-1 1 0 330837 0 0 0 0
-/wp-content/themes/advertica-lite/SketchBoard/includes/images/convac.png
-1 1 0 78944 0 0 0 0
+0 46 0 91817 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/sk.png
+1 6 0 4302 0 0 0 0
+/tag/announcement/feed/
+0 8 0 13177 1 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/basque.png
+1 6 0 4760 0 0 0 0
+/sitemap-archives.xml
+0 3 0 2451 0 0 0 0
 /wp-includes/js/tinymce/plugins/wplink/plugin.min.js
-0 196 0 159152 0 0 0 0
-/manual/da/mod/mod_authz_user.html
-0 1 0 2468 0 1 0 0
+0 46 0 37352 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/ba.png
+1 6 0 3949 0 0 0 0
+/job-training/departments/
+0 12 0 105335 1 1 0 0
 /wp-content/themes/openstrap/js/theme-customizer.js
-0 73 0 54899 0 0 0 0
-/wp-content/themes/openstrap/js/widgets.js
-0 60 0 64283 0 0 0 0
+0 28 0 21058 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/fancypants/sample.jpg
+1 2 0 22718 0 0 0 0
 /
-0 1106 0 9368889 88 51 0 0
+0 632 0 6875235 99 63 0 0
+/wp-content/themes/openstrap/js/widgets.js
+0 31 0 33211 0 0 0 0
 /wp-content/plugins/google-language-translator/js/admin.js
-0 29 0 31916 0 0 0 0
-/wp-includes/js/utils.min.js
-0 3 0 3474 0 0 0 0
-/manual/da/mod/module-dict.html
-0 1 0 3260 1 1 0 0
+0 1 0 1101 0 0 0 0
 /wp-includes/js/tinymce/plugins/wpautoresize/plugin.min.js
-0 196 0 249900 0 0 0 0
+0 46 0 58650 0 0 0 0
 /wp-admin/nav-menus.php
-0 99 0 1853706 2 0 0 0
-/manual/da/developer/modules.html
-0 1 0 4886 1 0 0 0
-/about/achievements/attachment/26/
-0 2 0 16041 0 0 0 0
+0 8 0 251848 0 0 0 0
 /wp-content/uploads/2015/02/image009-300x212.jpg
-1 8 0 109451 0 0 0 0
+1 5 0 90906 0 0 0 0
 /wp-content/themes/openstrap/inc/admin/css/theme-donations.css
-0 63 0 40045 0 0 0 0
+0 26 0 16514 0 0 0 0
 /wp-content/plugins/a3-responsive-slider/assets/js/cycle2-extensions/jquery.cycle2.caption2.min.js
-0 11 0 9295 0 0 0 0
-/manual/ja/mod/mod_authz_owner.html
-0 1 0 4387 1 1 0 0
+0 1 0 845 0 0 0 0
+/wp-includes/js/jquery/ui/widget.min.js
+0 24 0 70826 0 0 0 0
+/wp-content/uploads/2015/02/image003.jpg
+1 2 0 47105 0 0 0 0
 /wp-content/plugins/google-language-translator/js/jquery-ui-mouse.js
-0 29 0 52699 0 0 0 0
+0 1 0 1818 0 0 0 0
+/wp-content/plugins/social-media-tabs/css/images/youtube.png
+1 2 0 3164 0 0 0 0
 /wp-content/themes/openstrap/inc/admin/images/full-width.png
-1 18 0 6374 0 0 0 0
-/manual/es/mod/mod_lbmethod_bytraffic.html
-0 1 0 2958 1 0 0 0
+1 5 0 2331 0 0 0 0
+/wp-content/plugins/social-media-tabs/inc/images/stumbleupon.png
+1 2 0 8498 0 0 0 0
 /about/license/
-0 95 0 694016 16 14 0 0
-/wp-content/themes/wix/css/bootstrap.min.css
-0 3 0 52500 0 0 0 0
-/wp-admin/images/align-none-2x.png
-1 1 0 404 0 0 0 0
-/wp-content/themes/openstrap/css/custom.css
-0 33 0 21426 0 0 0 0
-/wp-content/plugins/easing-slider/css/settings-page.min.css
-0 1 0 587 0 0 0 0
-/wp-content/themes/advertica-lite/SketchBoard/includes/images/Rational.png
-1 1 0 116168 0 0 0 0
+0 19 0 185639 8 6 0 0
+/wp-content/uploads/2015/02/image006.jpg
+1 2 0 56330 0 0 0 0
+/sitemap-pt-post-2015-02.html
+0 3 0 9456 0 0 0 0
 /wp-content/uploads/2015/02/8.jpg
-1 10 0 2088118 0 0 0 0
-/wp-content/themes/twentyfifteen/js/color-scheme-control.js
-0 1 0 1207 0 0 0 0
+1 2 0 695798 0 0 0 0
 /about/horbachevsky/
-0 19 0 171976 0 0 0 0
+0 24 0 360083 1 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/am.png
+1 6 0 3204 0 0 0 0
 /wp-includes/js/tinymce/plugins/charmap/plugin.min.js
-0 196 0 597411 0 0 0 0
+0 46 0 140210 0 0 0 0
 /wp-includes/js/mediaelement/wp-mediaelement.css
-0 427 0 709929 0 0 0 0
+0 131 0 217816 0 0 0 0
 /wp-content/uploads/2015/02/image0021.jpg
 1 1 0 178693 0 0 0 0
-/wp-admin/js/language-chooser.min.js
-0 6 0 3530 0 0 0 0
-/wp-content/plugins/easing-slider/images/loading@2x.gif
-1 1 0 8619 0 0 0 0
-/wp-admin/media-upload.php
-0 6 0 23505 0 0 0 0
 /wp-content/uploads/2015/02/24.jpg
-1 10 0 897620 0 0 0 0
-/wp-content/themes/wp-strapfolio/css/app.css
-0 452 0 12050522 0 0 0 0
+1 3 0 448447 0 0 0 0
 /wp-content/uploads/2015/02/17.jpg
-1 10 0 1645901 0 0 0 0
-/manual/da/mod/mod_alias.html
-0 1 0 7611 1 1 0 0
-/wp-content/plugins/google-sitemap-generator/img/sitemap.js
-0 3 0 3975 0 0 0 0
+1 2 0 548393 0 0 0 0
+/wp-content/plugins/social-media-tabs/inc/images/facebook.png
+1 2 0 7828 0 0 0 0
 /wp-content/uploads/2015/02/24-212x300.jpg
-1 20 0 445899 0 0 0 0
+1 11 0 499569 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/az.png
+1 6 0 3710 0 0 0 0
 /for-student/deans-office/
-0 19 0 146037 1 0 0 0
+0 26 0 238999 4 3 0 0
 /wp-admin/images/spinner-2x.gif
-1 4 0 35287 0 0 0 0
+1 2 0 17644 0 0 0 0
+/about/achievements/attachment/4/
+0 1 0 9448 1 1 0 0
 /wp-content/uploads/2015/02/image011-300x212.jpg
-1 8 0 109689 0 0 0 0
+1 6 0 109328 0 0 0 0
 /science/research-office/
-0 1 0 6820 0 0 0 0
-/wp-content/plugins/a3-responsive-slider/admin/assets/css/admin-ui-style.min.css
-0 5 0 18650 0 0 0 0
+0 13 0 116526 2 2 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/tw.png
+1 6 0 3234 0 0 0 0
 /wp-content/themes/openstrap/css/style2/custom.css
-0 566 0 369228 0 0 0 0
-/wp-content/plugins/google-sitemap-generator/img/icon-wordpress.gif
-1 3 0 1368 0 0 0 0
-/wp-content/plugins/multilanguage/js/script.js
-0 9 0 7637 0 0 0 0
+0 730 0 476274 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/mt.png
+1 6 0 3069 0 0 0 0
 /job-training/distance-learning-center/
-0 23 0 176876 1 0 0 0
-/wp-content/themes/writerstrap/inc/css/optionsframework.css
-0 4 0 6623 0 0 0 0
-/comments/feed/
-0 1 0 1292 1 0 0 0
-/wp-content/themes/openstrap/css/bootstrap.css
-0 33 0 588436 0 0 0 0
-/wp-content/plugins/google-language-translator/css/toolbar.css
-0 1025 0 2225354 0 0 0 0
-/wp-content/plugins/easing-slider/images/shortcode-screenshot.jpg
-1 1 0 26906 0 0 0 0
-/wp-content/themes/advertica-lite/style.css
-0 8 0 85771 0 0 0 0
-/manual/ko/mod/mod_authz_owner.html
-0 1 0 4003 1 1 0 0
-/wp-content/plugins/google-sitemap-generator/sitemap.xsl
-0 1 0 6879 0 0 0 0
-/wp-content/themes/wp-strapfolio/js/skip-link-focus-fix.js
-0 448 0 327953 0 0 0 0
-/manual/fr/mod/mod_authz_owner.html
-0 1 0 4014 1 1 0 0
-/manual/fr/mod/mod_proxy_wstunnel.html
-0 1 0 2451 1 1 0 0
+0 14 0 124591 3 2 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/js/admin/utils.js
+0 11 0 14900 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/blackbox/sample.jpg
+1 2 0 22484 0 0 0 0
+/wp-content/plugins/easing-slider/images/pro-bundle.png
+1 1 0 23890 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/tr_imgs.png
+1 14 0 8515 0 0 0 0
 /wp-admin/options-media.php
-0 1 0 6840 0 0 0 0
-/wp-admin/setup-config.php
-0 4 0 6582 0 0 0 0
-/manual/de/mod/mod_lbmethod_bybusyness.html
-0 1 0 2841 1 1 0 0
-/wp-content/themes/advertica-lite/js/superfish.js
-0 8 0 19688 0 0 0 0
+0 2 1 13382 0 0 0 0
+/wp-content/uploads/2015/02/image005.jpg
+1 2 0 59883 0 0 0 0
+/sitemap-archives.html
+0 3 0 8150 0 0 0 0
+/wp-content/plugins/social-media-tabs/inc/images/google.png
+1 2 0 5424 0 0 0 0
 /wp-admin/options-general.php
-0 63 0 818655 0 1 0 0
+0 16 0 217374 2 0 0 0
 /wp-includes/js/admin-bar.min.js
-0 644 0 1767151 0 0 0 0
-/wp-content/themes/advertica-lite/SketchBoard/includes/images/biznez-career-counseling-demo.png
-1 1 0 77602 0 0 0 0
+0 461 0 1265004 0 0 0 0
+/wp-content/plugins/lightbox-plus/admin/images/ui-icons_cd0a0a_256x240.png
+1 2 0 9308 0 0 0 0
+/wp-content/plugins/social-media-tabs/css/images/rss.png
+1 2 0 3436 0 0 0 0
 /wp-content/uploads/2015/02/23.jpg
-1 10 0 2341178 0 0 0 0
-/wp-content/themes/bootstrap-basic/css/bootstrap.min.css
-0 7 0 133645 0 0 0 0
-/wp-admin/images/wordpress-logo-white.svg
-0 8 0 12822 0 0 0 0
-/wp-content/themes/writerstrap/includes/resources/bootstrap/css/bootstrap.min.css
-0 31 0 373543 0 0 0 0
+1 3 0 1170226 0 0 0 0
+/wp-content/plugins/lightbox-plus/admin/lightbox.admin.css
+0 5 0 26174 0 0 0 0
+/medical-work/
+0 16 0 149199 2 1 0 0
 /wp-content/uploads/2015/02/20-207x300.jpg
-1 20 0 561759 0 0 0 0
+1 11 0 629895 0 0 0 0
 /wp-includes/js/tinymce/plugins/wpview/plugin.min.js
-0 196 0 669341 0 0 0 0
+0 46 0 157090 0 0 0 0
 /wp-content/uploads/2015/02/22-212x300.jpg
-1 20 0 484347 0 0 0 0
-/wp-content/plugins/a3-responsive-slider/assets/images/playback-play.png
-1 1 0 1602 0 0 0 0
+1 11 0 542818 0 0 0 0
+/wp-content/plugins/social-media-tabs/css/images/plusone.png
+1 223 0 186944 0 0 0 0
 /wp-content/plugins/a3-responsive-slider/assets/js/cycle2-extensions/jquery.cycle2.ie-fade.min.js
-0 11 0 8088 0 0 0 0
+0 1 0 735 0 0 0 0
 /wp-content/uploads/2015/02/gorbachevsky-255x300.jpg
-1 28 0 194661 0 0 0 0
-/wp-content/themes/academica-wpcom/style.css
-0 27 0 141141 0 0 0 0
-/manual/da/mod/mod_proxy_ajp.html
-0 1 0 9774 1 1 0 0
-/wp-admin/js/password-strength-meter.min.js
-0 5 0 4002 0 0 0 0
-/wp-content/uploads/2015/02/cropped-header1-300x87.png
-1 1 0 70722 0 0 0 0
-/wp-content/plugins/multilanguage/images/flags/ru_RU.png
-1 4 0 2813 0 0 0 0
-/wp-content/plugins/google-language-translator/images/flags18.png
-1 2 0 31366 0 0 0 0
-/uk/activity/
-0 1 0 5086 0 0 0 0
+1 10 0 212483 0 0 0 0
+/wp-content/plugins/simple-share-buttons-adder/css/style.css
+0 1 4 1518 0 0 0 0
+/2015/02/25/test/
+0 14 0 155426 4 9 0 0
+/wp-content/uploads/2015/02/image012.jpg
+1 1 0 147799 0 0 0 0
 /wp-content/uploads/2015/02/image015-300x212.jpg
-1 8 0 106829 0 0 0 0
-/wp-content/plugins/footer-putter/styles/tooltip.css
-0 6 0 6260 0 0 0 0
+1 6 0 106465 0 0 0 0
+/wp-content/uploads/2015/02/image0091.jpg
+1 2 0 51110 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/apertiumicon.png
+1 6 0 6574 0 0 0 0
+/wp-content/uploads/2015/02/image015.jpg
+1 1 0 143247 0 0 0 0
 /wp-content/uploads/2015/02/9.jpg
-1 10 0 2095900 0 0 0 0
+1 3 0 1047588 0 0 0 0
+/wp-content/uploads/2015/02/image011.jpg
+1 2 0 296738 0 0 0 0
 /wp-content/themes/openstrap/style.css
-0 604 0 2858111 0 0 0 0
-/wp-content/plugins/a3-responsive-slider/admin/assets/js/a3rev-typography-preview.js
-0 5 0 13480 0 0 0 0
+0 763 0 3650811 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/stockholm/sample.jpg
+1 2 0 22422 0 0 0 0
 /wp-content/uploads/2015/02/image0051-212x300.jpg
-1 14 0 89241 0 0 0 0
-/wp-admin/edit-comments.php
-0 1 0 11857 0 0 0 0
+1 4 0 70092 0 0 0 0
+/wp-content/plugins/simple-share-buttons-adder/images/stars.png
+1 1 0 3834 0 0 0 0
 /wp-content/uploads/2015/02/image010-300x212.jpg
-1 8 0 111627 0 0 0 0
+1 5 0 92721 0 0 0 0
 /wp-content/uploads/2015/02/image0011.jpg
-1 2 0 144988 0 0 0 0
+1 2 0 289616 0 0 0 0
 /wp-includes/js/mediaelement/mediaelementplayer.min.css
-0 427 0 1482777 0 0 0 0
-/manual/pt-br/mod/mod_echo.html
-0 1 0 2569 1 1 0 0
+0 131 0 454915 0 0 0 0
 /about/public-information/
-0 4 0 29356 0 1 0 0
-/wp-content/uploads/2015/02/image0011-150x150.jpg
-1 4 0 14492 0 0 0 0
-/wp-content/themes/writerstrap/images/hbar_bg.png
-1 22 0 47749 0 0 0 0
-/manual/da/platform/win_compiling.html
-0 1 0 8780 1 1 0 0
-/wp-content/themes/bootstrap-basic/fonts/glyphicons-halflings-regular.woff
-0 2 0 47240 0 0 0 0
-/wp-content/themes/openstrap/images/optin/lock.png
-1 12 0 8975 0 0 0 0
-/wp-content/plugins/easing-slider/images/function-screenshot.jpg
-1 1 0 32252 0 0 0 0
-/wp-content/themes/wix/images/no-image.png
-1 1 0 65215 0 0 0 0
+0 21 0 224885 6 8 0 0
+/wp-content/plugins/lightbox-plus/css/lightweight/images/controls.png
+1 7 0 5974 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/nl.png
+1 6 0 3129 0 0 0 0
 /wp-content/uploads/2015/02/10.jpg
-1 10 0 2012650 0 0 0 0
+1 2 0 670643 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/za.png
+1 6 0 4217 0 0 0 0
 /wp-content/uploads/2015/02/image012-300x212.jpg
-1 8 0 107578 0 0 0 0
-/job-training/department-of-clinical/
-0 1 0 6927 0 0 0 0
-/wp-content/plugins/footer-putter/styles/admin.css
-0 2 0 1120 0 0 0 0
-/robots.txt
-0 13 0 4816 0 0 0 0
+1 5 0 89346 0 0 0 0
 /wp-admin/theme-editor.php
-0 34 0 325369 1 0 0 0
-/wp-content/themes/advertica-lite/css/fonts/OpenSans-Regular-webfont.woff
-0 2 0 28576 0 0 0 0
-/wp-content/themes/openstrap/js/theme-menu.js
-0 296 0 215792 0 0 0 0
+0 6 0 66993 0 0 0 0
+/robots.txt
+0 33 0 12192 0 0 0 0
+/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js
+0 5 0 25365 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/js/admin/backendtranslate.js
+0 39 0 61943 0 0 0 0
+/wp-content/uploads/2015/02/avatar-225x300.png
+1 3 0 13054 0 0 0 0
 /author/admin/feed/
-0 1 0 1269 1 0 0 0
-/manual/pt-br/mod/directive-dict.html
-0 1 0 5517 1 1 0 0
+0 7 0 11206 0 0 0 0
+/wp-content/themes/openstrap/js/theme-menu.js
+0 227 0 165496 0 0 0 0
 /about/departments/
-0 3 0 22345 0 0 0 0
-/wp-content/themes/city-informer/screenshot.png
-1 25 0 8247990 0 0 0 0
-/manual/da/mod/mod_authz_core.html
-0 1 0 8260 1 0 0 0
+0 47 0 463342 13 16 0 0
 /wp-admin/profile.php
-0 2 0 19899 0 0 0 0
-/wp-content/themes/advertica-lite/css/font-awesome.css
-0 8 0 42533 0 0 0 0
+0 1 0 8210 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/pl.png
+1 6 0 3126 0 0 0 0
 /wp-content/themes/openstrap/inc/admin/css/optionsframework.css
-0 63 0 99266 0 0 0 0
-/manual/style/css/prettify.css
-0 3 0 4324 0 0 0 0
+0 26 0 40954 0 0 0 0
 /wp-content/plugins/easing-slider/css/easingslider.min.css
-0 786 0 1448231 0 0 0 0
-/wp-content/themes/old/screenshot.png
-1 1 0 412354 0 0 0 0
+0 543 0 1073862 0 0 0 0
 /feed/
-0 10 0 13777 4 2 0 0
-/manual/en/mod/mod_lbmethod_bybusyness.html
-0 1 0 2841 1 0 0 0
-/wp-content/plugins/multilanguage/css/style.css
-0 10 0 12931 0 0 0 0
+0 48 0 94198 32 25 0 0
+/wp-content/plugins/simple-share-buttons-adder/buttons/simple/email.png
+1 6 0 3480 0 0 0 0
 /wp-admin/async-upload.php
-0 84 0 166284 1 1 0 0
+0 5 0 5309 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/de.png
+1 6 0 3364 0 0 0 0
 /about/administration/
-0 3 0 22597 0 0 0 0
+0 24 0 227945 6 7 0 0
 /wp-admin/user-new.php
-0 6 0 48771 0 0 0 0
+0 2 0 17224 0 0 0 0
 /wp-content/uploads/2015/02/image0051-722x1024.jpg
-1 27 0 388458 0 0 0 0
-/wp-content/plugins/a3-responsive-slider/admin/assets/js/a3rev-settings-preview.js
-0 5 0 9845 0 0 0 0
+1 2 0 383932 0 0 0 0
+/wp-content/plugins/simple-share-buttons-adder/buttons/simple/vk.png
+1 6 0 134815 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/js/transposh.js
+0 133 0 312842 0 0 0 0
 /wp-content/uploads/2015/02/image0111.jpg
-1 11 0 76460 0 0 0 0
-/wp-includes/images/uploader-icons-2x.png
-1 3 0 11480 0 0 0 0
-/wp-content/themes/writerstrap/includes/resources/bootstrap/js/bootstrap.min.js
-0 31 0 231509 0 0 0 0
+1 10 0 150763 0 0 0 0
+/wp-content/plugins/social-media-tabs/css/images/facebook.png
+1 223 0 139140 0 0 0 0
 /wp-content/uploads/2015/02/16-213x300.jpg
-1 16 0 525355 0 0 0 0
+1 12 0 655252 0 0 0 0
 /wp-cron.php
-0 122 0 22707 57 56 0 0
+0 145 0 28338 102 101 0 0
 /wp-content/plugins/google-language-translator/js/flags.js
-0 1246 0 1449295 0 0 0 0
-/wp-content/themes/singlepage/screenshot.png
-1 1 0 182 0 0 0 0
+0 285 0 331749 0 0 0 0
 /wp-includes/js/tinymce/plugins/wpgallery/plugin.min.js
-0 196 0 216776 0 0 0 0
-/wp-admin/images/resize.gif
-1 1 0 351 0 0 0 0
+0 46 0 50876 0 0 0 0
 /wp-content/themes/openstrap/css/font-awesome.min.css
-0 603 0 2846900 0 0 0 0
+0 729 0 3441795 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/in.png
+1 6 0 3424 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/is.png
+1 6 0 3634 0 0 0 0
 /wp-content/plugins/google-apps-login/css/gal-admin.css
-0 7 0 7849 0 0 0 0
-/wp-content/themes/bootstrap-basic/css/bootstrap-theme.min.css
-0 7 0 18441 0 0 0 0
-/category/тдму/news/
-0 11 0 98462 0 0 0 0
-/wp-content/themes/wix/images/bg.png
-1 3 0 1542402 0 0 0 0
+0 3 0 3365 0 0 0 0
 /wp-includes/js/tinymce/plugins/tabfocus/plugin.min.js
-0 196 0 205606 0 0 0 0
+0 46 0 48254 0 0 0 0
+/wp-content/uploads/2015/03/customLogosite2.png
+1 259 0 1331694 0 0 0 0
 /wp-content/uploads/2015/02/image0041-212x300.jpg
-1 14 0 104881 0 0 0 0
+1 4 0 103076 0 0 0 0
+/wp-content/plugins/lightbox-plus/admin/images/ui-bg_glass_75_e6e6e6_1x400.png
+1 2 0 784 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/elegant/sample.jpg
+1 2 0 23280 0 0 0 0
 /wp-content/plugins/google-language-translator/images/logo.png
-1 9 0 72270 0 0 0 0
-/about/license/image004-2/
-0 1 0 6926 0 0 0 0
+1 1 0 11955 0 0 0 0
 /science/certified-laboratories/
-0 2 0 15530 0 0 0 0
-/wp-admin/admin-ajax.php
-0 4641 0 8678750 35 56 0 0
-/wp-content/themes/advertica-lite/SketchBoard/includes/images/Analytical_Interior_Demo.png
-1 1 0 89944 0 0 0 0
-/2015/02/05/media/feed/
-0 1 0 925 1 0 0 0
+0 17 0 155076 3 3 0 0
 /wp-content/uploads/2015/02/19-205x300.jpg
-1 18 0 414755 0 0 0 0
-/wp-content/themes/wp-strapfolio/font/genericons-regular-webfont.woff
-0 78 0 885638 0 0 0 0
-/wp-content/themes/city-informer/fonts/Open_Sans/OpenSans-Regular.ttf
-0 2 0 435247 0 0 0 0
-/wp-content/themes/big-brother-wpcom/genericons/genericons.css
-0 54 0 1061996 0 0 0 0
-/wp-content/themes/city-informer/fonts/Share/Share-Regular.ttf
-0 2 0 184406 0 0 0 0
-/wp-content/themes/city-informer/fonts/Open_Sans/OpenSans-Regular.woff
-0 9 0 744767 0 0 0 0
+1 11 0 464931 0 0 0 0
+/wp-admin/admin-ajax.php
+0 5238 0 7602527 64 83 0 0
+/wp-content/plugins/simple-share-buttons-adder/buttons/simple/facebook.png
+1 6 0 2916 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/by.png
+1 6 0 3484 0 0 0 0
+/wp-content/plugins/social-media-tabs/inc/images/instagram.png
+1 2 0 3998 0 0 0 0
+/international-relations/information-centre-for-european-and-euro-atlantic-integration/
+0 18 0 169392 3 4 0 0
+/about/license/image007-2/
+0 1 0 8668 0 0 0 0
+/about/achievements/attachment/16/
+0 1 0 9452 1 0 0 0
 /wp-content/uploads/2015/02/8-204x300.jpg
-1 16 0 409970 0 0 0 0
-/wp-content/themes/big-brother-wpcom/js/navigation.js
-0 53 0 39385 0 0 0 0
-/test2/
-0 17 0 111368 3 2 0 0
-/wp-content/themes/academica-wpcom/js/menu.js
-0 27 0 15614 0 0 0 0
+1 11 0 459955 0 0 0 0
+/wp-content/plugins/lightbox-plus/css/navy/sample.jpg
+1 2 0 22636 0 0 0 0
+/contacts/invitation-to-cooperation/
+0 3 0 28749 1 2 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/ro.png
+1 6 0 3654 0 0 0 0
+/wp-content/plugins/lightbox-plus/screenshot-1.jpg
+1 2 0 99564 0 0 0 0
+/wp-content/uploads/2015/02/image0072.jpg
+1 5 0 736363 0 0 0 0
+/wp-content/uploads/2015/02/customLogo-300x77.png
+1 4 0 89686 0 0 0 0
+/wp-content/plugins/social-media-tabs/js/jquery.dcsmt.1.0.js
+0 728 0 5254724 0 0 0 0
+/sitemap-pt-page-2015-02.html
+0 4 0 24467 2 2 0 0
 /about/
-0 3 0 24270 0 0 0 0
+0 12 0 109214 1 1 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/esperanto.png
+1 6 0 3549 0 0 0 0
 /wp-admin/customize.php
-0 132 0 3986028 10 0 0 0
-/wp-content/themes/city-informer/fonts/Share/Share-Bold.ttf
-0 2 0 182622 0 0 0 0
+0 20 0 823108 1 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/catalonia.png
+1 6 0 3324 0 0 0 0
+/wp-content/plugins/lightbox-plus/admin/images/aflt-100x26-grvfrm.jpg
+1 2 0 4615 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/fi.png
+1 6 0 3414 0 0 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/js/transposhedit.js
+0 14 0 78751 0 0 0 0
 /wp-includes/js/tinymce/themes/modern/theme.min.js
-0 196 0 588196 0 0 0 0
-/manual/pt-br/ssl/ssl_howto.html
-0 1 0 5195 1 1 0 0
+0 46 0 138048 0 0 0 0
 /about/academic-council/
-0 1 1 6828 0 0 0 0
+0 41 0 434157 8 3 0 0
+/wp-content/plugins/transposh-translation-filter-for-wordpress/img/flags/us.png
+1 6 0 4042 0 0 0 0
+/wp-includes/js/jquery/ui/position.min.js
+0 24 0 70104 0 0 0 0
 /about/achievements/
-0 31 0 256945 1 0 0 0
-/wp-content/themes/advertica-lite/css/skt-animation.css
-0 8 0 8997 0 0 0 0
-/wp-content/uploads/2015/02/disruptive-tech-840x300.png
-1 1 0 161354 0 0 0 0
-/wp-content/themes/city-informer/images/navigation-arrow.jpg
-1 1 0 18024 0 0 0 0
-/wp-content/plugins/easing-slider/images/nav-icon-inactive.png
-1 61 0 81637 0 0 0 0
+0 24 0 246871 2 4 0 0
+/category/tsmu/announcement/
+0 8 0 80329 1 3 0 0
+/wp-content/plugins/lightbox-plus/css/shadowfax/sample.jpg
+1 2 0 21148 0 0 0 0
 # End Of Table - urls
 # -sites- (monthly)
-46.118.139.27
-0 369 359 3359880 1 1424209717 0 0
-/wp-admin/admin-ajax.php
-66.249.64.23
-0 15 12 71435 7 1423484458 0 0
-/2015/02/05/media/feed/
-66.249.75.13
-0 4 3 31366 4 1423396953 0 0
-/manual/da/mod/mod_authz_core.html
+64.246.165.170
+0 2 2 10596 1 1426372024 0 0
+/
 128.30.52.70
-0 1 1 6576 1 1424187908 0 0
+0 5 5 46675 3 1426085145 0 0
 /
-66.249.75.187
-0 1 1 679831 1 1423352164 0 0
-/wp-content/uploads/2015/02/
 5.58.90.111
-0 27 23 50703 2 1423957835 0 0
+0 182 138 732302 3 1426429552 0 0
 /wp-admin/admin-ajax.php
-66.249.78.19
-0 12 8 57490 8 1423108054 0 0
-/comments/feed/
 128.30.52.71
-0 3 3 19823 1 1424187573 0 0
+0 3 3 27822 2 1426085543 0 0
 /
-66.249.67.155
-0 33 31 128572 20 1423568844 0 0
--
-94.23.205.126
-0 2 2 36643 2 1423164395 0 0
-/
-66.249.75.219
-0 5 4 27568 3 1423403029 0 0
--
-66.249.93.146
-0 8 7 296054 2 1423217335 0 0
+66.249.73.184
+0 24 23 181167 16 1426624824 0 0
 /feed/
-66.249.67.75
-0 2 2 5182 1 1422906116 0 0
-/manual/da/developer/modules.html
-66.249.93.197
-0 2 2 7899 1 1424193701 0 0
-/
-66.249.73.235
-0 7 6 39047 5 1423329087 0 0
-/wp-login.php
-66.249.93.143
-0 5 5 21732 1 1423158193 0 0
-/
+66.249.64.85
+0 1 1 7606 1 1426160044 0 0
+/home/
+95.108.158.144
+0 23 23 782886 9 1426579896 0 0
+/about/rectors-word/
+66.249.64.69
+0 37 34 425454 21 1426339841 0 0
+/feed/
+46.8.92.3
+0 23 23 189115 1 1425765140 0 0
+/job-training/the-set-of-measures-on-the-educational-process/
 5.58.39.123
-0 1049 987 8501898 13 1424210929 0 0
+0 1966 1949 9761486 13 1426629888 0 0
+/
+66.249.73.192
+0 22 21 168459 12 1426609054 0 0
+/medical-work/healing-and-diagnostic-center/
+78.85.80.65
+0 1 1 32081 1 1425281579 0 0
+/
+66.249.75.113
+0 12 11 129640 5 1425572818 0 0
+/about/academic-council/
+176.124.238.30
+0 1 1 15077 0 0 0 0
+-
+194.44.203.83
+0 26 26 174834 1 1426196563 0 0
 /wp-admin/admin-ajax.php
-5.248.203.221
-0 84 81 1150782 2 1424105584 0 0
-/about/license/
-66.249.75.203
-0 1 1 4305 1 1423401200 0 0
-/author/admin/
-176.36.52.189
-0 5 0 32027 3 1423411703 0 0
--
-5.58.54.78
-0 30 30 1292093 1 1424107826 0 0
-/wp-content/uploads/2015/02/
-66.249.67.5
-0 24 20 134732 12 1423564508 0 0
--
-5.58.56.46
-0 167 127 43721 66 1424363905 0 0
-/wp-cron.php
-134.249.238.241
-0 2 0 9630 1 1422963340 0 0
--
-66.249.67.67
-0 2 2 10325 2 1422903459 0 0
-/manual/da/mod/mod_session_crypto.html
-95.111.164.31
-0 1 1 5191 1 1423402983 0 0
-/test2/
-66.249.81.185
-0 33 32 918521 3 1424353199 0 0
-/
-66.249.73.131
-0 3 3 8802 1 1423324857 0 0
-/manual/da/programs/apachectl.html
-5.58.56.21
-0 4005 3859 58442876 21 1424364027 0 0
-/job-training/distance-learning-center/
-66.249.93.140
-0 11 11 44251 2 1423215103 0 0
-/
-78.85.54.100
-0 2 2 50812 2 1423501040 0 0
-/
-66.249.64.15
-0 20 11 143490 8 1423480580 0 0
+66.249.78.93
+0 51 48 327010 21 1426489755 0 0
 /feed/
-46.226.110.52
-0 10 10 67374 4 1424348389 0 0
+66.249.67.65
+0 113 105 9087087 17 1426167654 0 0
+/sitemap-pt-page-2015-02.html
+5.58.56.46
+0 145 145 28338 102 1426633799 0 0
+/wp-cron.php
+66.249.79.73
+0 1 1 9517 1 1425843343 0 0
+/2015/02/17/урааа-скоро-новий-сайт/
+66.249.78.107
+0 51 49 695370 24 1426475153 0 0
+/feed/
+5.255.253.109
+0 60 53 9677158 30 1426607556 0 0
+/2015/02/17/урааа-скоро-новий-сайт/
+66.249.81.185
+0 14 12 819221 3 1426450685 0 0
 /
-66.249.78.5
-0 10 7 67900 7 1423143766 0 0
+23.22.131.24
+0 1 1 42681 1 1426089874 0 0
+/
+176.8.7.5
+0 1 1 147273 0 0 0 0
 -
-66.249.67.147
-0 39 37 234186 20 1423565533 0 0
--
-66.249.79.155
-0 15 11 575616 8 1423267490 0 0
-/wp-content/uploads/2015/02/
-5.58.89.73
-0 423 421 1453311 6 1424300297 0 0
-/
-66.249.73.243
-0 3 1 9816 3 1423299370 0 0
-/2015/02/05/media/
-128.30.52.73
-0 2 2 13152 1 1424188005 0 0
-/
-176.8.164.226
-0 19 18 828525 1 1424365512 0 0
-/for-student/deans-office/
-66.249.79.5
-0 17 14 344400 7 1423267279 0 0
-/wp-content/uploads/2015/02/
-54.197.183.137
-0 1 1 26418 1 1424188028 0 0
-/
-66.249.75.235
-0 10 10 30619 5 1423402114 0 0
-/manual/en/mod/mod_lbmethod_bybusyness.html
-217.196.164.17
-0 3664 3575 51275868 37 1424339333 0 0
-/
-37.55.236.80
-0 28 22 462281 1 1423165109 0 0
-/test2/
-70.39.246.37
-0 7 7 29112 2 1423480576 0 0
-/2015/02/09/media1/
-5.58.56.27
-0 34733 33181 361454122 82 1424276127 0 0
+5.58.56.21
+0 12470 11687 146064877 58 1426521556 0 0
 /wp-admin/admin-ajax.php
-66.249.81.134
-0 1 1 238 0 0 0 0
+66.249.75.129
+0 8 7 79760 4 1425569226 0 0
+/international-relations/intrenational-training/
+66.249.67.57
+0 99 89 726386 17 1426167532 0 0
+/sitemap-archives.html
+66.249.83.185
+0 1 1 715631 0 0 0 0
 -
-66.249.81.191
-0 36 33 859886 1 1424105356 0 0
+5.58.2.14
+0 45 45 321182 1 1425817032 0 0
+/about/academic-council/
+66.249.78.100
+0 52 51 20334939 17 1426467126 0 0
+/feed/
+91.124.132.239
+0 47 47 428974 1 1426340124 0 0
+/for-student/activities/
+5.45.254.226
+0 2 2 20068 2 1426459776 0 0
+/author/admin/
+66.249.64.77
+0 45 39 374359 20 1426326215 0 0
+-
+104.131.193.180
+0 1 1 45375 1 1425603324 0 0
 /
-66.249.79.147
-0 26 26 150769 8 1423267262 0 0
-/wp-content/uploads/2015/02/
-66.249.64.19
-0 23 12 237154 12 1423503052 0 0
-/2015/02/03/new-site/
+5.58.89.73
+0 293 267 2919140 13 1426634344 0 0
+/wp-admin/admin-ajax.php
+128.30.52.73
+0 4 4 36948 1 1426085605 0 0
+/
+46.185.37.161
+0 30 26 1659524 2 1425332176 0 0
+/
+66.249.67.73
+0 145 135 7434210 16 1426168584 0 0
+/about/license/image003-2/
+5.255.253.20
+0 5 4 37585 5 1426556955 0 0
+/
+217.196.164.17
+0 5747 5585 87744571 35 1426605788 0 0
+/about/rectors-word/
+94.179.130.218
+0 75 75 1920929 2 1425505717 0 0
+/about/academic-council/
+54.91.137.217
+0 1 1 9570 1 1426089912 0 0
+/
+194.44.203.70
+0 22 22 168847 1 1426253038 0 0
+/author/admin/
+66.249.79.65
+0 2 2 8646 1 1425825757 0 0
+/medical-work/hospitals-and-clinical-bases/
+66.249.64.73
+0 25 24 167077 16 1426336963 0 0
+/
+37.52.135.44
+0 21 21 168107 1 1426517974 0 0
+/for-student/map/
+5.58.56.27
+0 5477 5104 153902169 20 1426615283 0 0
+/wp-admin/admin-ajax.php
+66.249.81.191
+0 15 13 143385 1 1425289997 0 0
+/
+178.93.246.117
+0 25 25 1599793 1 1426095699 0 0
+/
+107.170.130.41
+0 1 1 182 1 1425502846 0 0
+/
+66.249.75.145
+0 13 13 82556 5 1425593791 0 0
+/about/departments/
 66.249.81.181
-0 24 21 1043394 1 1424105536 0 0
-/wp-content/uploads/2015/02/
-66.249.78.12
-0 6 4 56652 5 1423142765 0 0
--
+0 16 16 1506170 5 1426537109 0 0
+/
+46.200.248.139
+0 33 33 224898 1 1426107927 0 0
+/category/tsmu/news/
+37.140.141.49
+0 624 557 44881543 20 1426616974 0 0
+/for-student/rules/
+66.249.73.200
+0 22 22 130226 11 1426603038 0 0
+/feed/
+66.249.67.17
+0 5 5 45767 1 1425716283 0 0
+/science/
 # End Of Table - sites (monthly)
 # -sites- (daily)
+66.249.73.184
+0 11 11 90601 8 1426624824 0 0
+/feed/
+95.108.158.144
+0 7 7 459691 3 1426579896 0 0
+/about/rectors-word/
+5.58.39.123
+0 2 2 20718 1 1426629888 0 0
+/
+66.249.73.192
+0 12 11 106626 7 1426609054 0 0
+/medical-work/healing-and-diagnostic-center/
 5.58.56.46
-0 4 4 924 4 1424363905 0 0
+0 35 35 6598 9 1426633799 0 0
 /wp-cron.php
-66.249.81.185
-0 1 1 6835 1 1424353199 0 0
+5.255.253.109
+0 8 5 47502 3 1426607556 0 0
+/2015/02/17/урааа-скоро-новий-сайт/
+5.58.89.73
+0 89 77 561622 3 1426634344 0 0
+/wp-admin/admin-ajax.php
+5.255.253.20
+0 1 0 304 1 1426556955 0 0
 /
-5.58.56.21
-0 254 225 12861119 4 1424364027 0 0
-/job-training/distance-learning-center/
-46.226.110.52
-0 1 1 6779 1 1424348389 0 0
-/
-176.8.164.226
-0 19 18 828525 1 1424365512 0 0
-/for-student/deans-office/
 217.196.164.17
-0 101 99 727726 1 1424339333 0 0
-/
-66.249.81.181
-0 1 1 3842 0 0 0 0
--
+0 55 55 3179563 1 1426605788 0 0
+/about/rectors-word/
+5.58.56.27
+0 4198 3896 134077131 11 1426615283 0 0
+/wp-admin/admin-ajax.php
+37.140.141.49
+0 15 7 560276 3 1426616974 0 0
+/for-student/rules/
+66.249.73.200
+0 11 11 79108 7 1426603038 0 0
+/feed/
 # End Of Table - sites (daily)
 # -referrers- 
 http://www.tsmutest.tk/wp-admin/customize.php
-1 5151
-http://www.tsmutest.tk/sitemap.xml
-1 3
-http://www.tsmutest.tk/test2/
-1 57
-http://tdmu.co.vu/wp-content/themes/a1/style.css
-1 2
-http://tdmu.co.vu/2015/02/03/new-site/
-1 53
+1 893
 http://www.tsmutest.tk/wp-admin/
-1 251
-http://www.tsmutest.tk/wp-content/plugins/a3-responsive-slider/admin/assets/js/chosen/chosen.min.css
-1 4
-http://www.tsmutest.tk/wp-login
-1 15
+1 443
 http://www.tsmutest.tk/wp-admin/options-reading.php
-1 17
+1 7
+http://www.tsmutest.tk/s
+1 18
 http://www.tsmutest.tk/wp-admin/update.php
-1 36
-http://www.tsmutest.tk/about/achievements/attachment/26/
-1 17
-http://tdmu.co.vu/wp-admin/users.php
-1 10
+1 23
+http://www.tsmutest.tk/page-cse1
+1 89
 http://www.tsmutest.tk/wp-admin/plugin-editor.php
-1 6
-http://tdmu.co.vu/wp-admin/theme-install.php
-1 145
-http://www.tsmutest.tk/about/achievements/attachment/15/
-1 1
+1 14
+http://www.tsmutest.tk/wp-content/plugins/social-media-tabs/css/admin.css
+1 2
 http://www.tsmutest.tk/science/certified-laboratories/
-1 20
-http://www.tsmutest.tk/wp-content/plugins/easing-slider/css/welcome-pages.min.css
-1 1
-http://www.tsmutest.tk/about/public-information/
-1 31
-http://www.tsmutest.tk/science/vivarium/
-1 1
-http://www.tsmutest.tk/test-test/
-1 91
-http://tdmu.co.vu/wp-content/themes/bootstrap-basic/css/main.css
-1 4
-http://www.tsmutest.tk/international-relations/intrenational-training/
-1 3
-http://www.tsmutest.tk/about/license/
-1 526
-http://www.tsmutest.tk/about/license/image005-2/
-1 2
-http://www.tsmutest.tk/awdawd
-1 37
-http://www.tsmutest.tk/about/license/image001-2/
-1 3
-http://www.tsmutest.tk/international-relations/
-1 37
-http://www.tsmutest.tk/wp-admin/edit.php
-1 341
-http://www.tsmutest.tk/about/rectors-word/
-1 59
-http://www.tsmutest.tk/for-student/map/
-1 169
-http://www.tsmutest.tk/wpadmin
-1 16
-http://www.tsmutest.tk/science/scientific-council/
-1 1
-http://www.tsmutest.tk/about/achievements/
-1 680
-http://www.tsmutest.tk/about/academic-council/
-1 1
-http://tdmu.co.vu/uk/
-1 36
-http://tdmu.co.vu/wp-admin/options-permalink.php
-1 8
-http://www.tsmutest.tk/wp-admin/plugins.php
-1 153
-http://www.google.com/search
-0 1
-http://www.tsmutest.tk/wp-content/themes/writerstrap/css/font-awesome.css
-1 1
-http://www.tsmutest.tk/test1/
-1 57
-http://www.tsmutest.tk/wp-content/plugins/a3-responsive-slider/admin/assets/css/admin-ui-style.min.css
-1 1
-http://www.tsmutest.tk/wp-login.php
-1 352
-http://www.tsmutest.tk/2015/02/03/new-site/
-1 2
-http://www.tsmutest.tk/wp-content/themes/openstrap/style.css
-1 68
-http://www.tsmutest.tk/2015/02/17/вітаємо-на-новому-сайті-тдму/
-1 76
-http://www.tsmutest.tk/wp-content/themes/openstrap/css/font-awesome.min.css
-1 184
-http://tdmu.co.vu/wp-admin/edit.php
-1 52
-http://www.tsmutest.tk/wp-content/plugins/easing-slider/css/easingslider.min.css
-1 178
-http://www.tsmutest.tk/wp-content/themes/bootstrap-basic/css/main.css
-1 1
-http://www.tsmutest.tk/wp-admin/upload.php
-1 71
-http://tdmu.co.vu/wp-content/themes/wix/css/custom.css
-1 6
-http://www.tsmutest.tk/job-training/
-1 488
-http://tdmu.co.vu/wp-content/themes/a1/css/font-awesome.css
-1 1
-http://tdmu.co.vu/test2/
-1 104
-http://tdmu.co.vu/wp-admin/options-general.php
-1 310
-http://www.tsmutest.tk/wp-content/uploads/2015/02/plan_roboty.pdf
-1 5
-http://tdmu.co.vu/wp-content/themes/wp-strapfolio/css/custom.css
-1 12
-http://tdmu.co.vu/wp-content/themes/writerstrap/style.css
-1 36
-http://www.tsmutest.tk/international-relations/foreign-partners/
-1 241
-http://www.tsmutest.tk/about/license/image006-2/
-1 2
-http://tdmu.co.vu/wp-admin/
-1 122
-http://www.tsmutest.tk/wp-admin/load-styles.php
-1 37
-http://tdmu.co.vu/2015/02/
-1 1
-http://www.tsmutest.tk/wp-content/themes/bootstrap-basic/css/bootstrap.min.css
-1 1
-http://www.tsmutest.tk/for-student/campus/
-1 90
-http://tdmu.co.vu/wp-login.php
-1 117
-http://tdmu.co.vu/wp-admin/options-writing.php
-1 43
-http://www.tsmutest.tk/wp-content/plugins/a3-responsive-slider/assets/css/admin_sidebar_menu.css
-1 19
-http://www.tsmutest.tk/about/license/image004-2/
-1 1
-- (Direct Request)
-0 1608
-http://tdmu.co.vu/wp-content/themes/wp-strapfolio/css/app.css
-1 28
-http://www.tsmutest.tk/international-relations/office-of-international-affairs/
 1 35
+http://www.tsmutest.tk/about/public-information/
+1 41
+http://www.tsmutest.tk/job-training/institutes/institute-of-nursing/
+1 31
+http://www.tsmutest.tk/science/
+1 12
+http://www.tsmutest.tk/wp-content/plugins/google-custom-search/css/smoothness/jquery-ui.theme.min.css
+1 10
+http://www.tsmutest.tk/author/admin/
+1 46
+http://www.tsmutest.tk/international-relations/intrenational-training/
+1 48
+http://www.tsmutest.tk/awdawd
+1 58
+http://www.tsmutest.tk/contacп/
+1 17
+http://www.tsmutest.tk/wp-admin/edit.php
+1 269
+http://www.tsmutest.tk/about/rectors-word/
+1 42
+http://www.tsmutest.tk/for-student/map/
+1 64
+http://www.tsmutest.tk/search
+1 37
+http://www.tsmutest.tk/job-training/institutes/institute-analysis-of-pathological-processes/
+1 16
+http://www.tsmutest.tk/about/achievements/
+1 531
+http://www.tsmutest.tk/about/academic-council/
+1 350
+http://www.tsmutest.tk/home/
+1 53
+http://www.tsmutest.tk/wp-admin/plugins.php
+1 287
+http://www.tsmutest.tk/wp-content/plugins/transposh-translation-filter-for-wordpress/css/transposh.css
+1 34
+http://www.tsmutest.tk/wp-login.php
+1 52
+http://www.google.com.ua/url
+0 1
+http://www.tsmutest.tk/2015/02/03/new-site/
+1 87
+http://www.tsmutest.tk/wp-content/themes/openstrap/style.css
+1 1
+http://www.netcraft.com/survey/
+0 1
+http://www.tsmutest.tk/2015/02/17/вітаємо-на-новому-сайті-тдму/
+1 46
+http://www.tsmutest.tk/wp-content/themes/openstrap/css/font-awesome.min.css
+1 174
+http://www.tsmutest.tk/job-training/
+1 50
+http://www.tsmutest.tk/international-relations/foreign-partners/
+1 31
+http://www.tsmutest.tk/wp-admin/options-media.php
+1 4
+http://www.tsmutest.tk/wp-admin/load-styles.php
+1 24
+http://www.tsmutest.tk/for-student/campus/
+1 33
+http://www.tsmutest.tk/wp-content/plugins/a3-responsive-slider/assets/css/admin_sidebar_menu.css
+1 17
+- (Direct Request)
+0 1965
+http://www.tsmutest.tk/wp-content/plugins/lightbox-plus/css/lightweight/colorbox.css
+1 14
+http://www.tsmutest.tk/international-relations/office-of-international-affairs/
+1 228
 http://www.tsmutest.tk/wp-admin/options-permalink.php
 1 6
 http://www.tsmutest.tk/medical-work/pilot-project-for-hypertension/
-1 14
-http://www.tsmutest.tk/about/achievements/attachment/18/
-1 1
-http://www.tsmutest.tk/job-training/department-of-clinical/
-1 21
-http://tdmu.co.vu/wp-admin/install.php
-1 24
-http://tdmu.co.vu/wp-content/themes/writerstrap/css/font-awesome.css
-1 17
+1 54
+http://www.tsmutest.tk/medical-work/university-hospital/
+1 88
 http://www.tsmutest.tk/wp-admin/users.php
-1 105
-http://www.tsmutest.tk/wp-content/themes/wix/css/custom.css
-1 4
-http://www.tsmutest.tk/wp-admin/admin.php
-1 105
-http://www.tsmutest.tk/wp-content/plugins/a3-responsive-slider/assets/css/admin_slider.css
-1 2
-http://www.tsmutest.tk/wp-admin/tools.php
-1 9
-http://www.tsmutest.tk/wp-admin/plugin-install.php
-1 87
-http://tdmu.co.vu/wp-content/themes/city-informer/style.css
-1 86
-http://tdmu.co.vu/manual/ja/mod/mod_lbmethod_bybusyness.html
-1 4
-http://www.tsmutest.tk/2015/02/09/media1/
-1 3
-http://www.tsmutest.tk/wp-admin/themes.php
-1 1533
-http://www.tsmutest.tk/wp-admin/theme-editor.php
-1 115
-http://www.tsmutest.tk/wp-admin/nav-menus.php
-1 300
-http://tdmu.co.vu/wp-content/themes/advertica-lite/css/font-awesome.css
-1 2
-http://www.tsmutest.tk/about/horbachevsky/
-1 244
-http://tdmu.co.vu/2015/
-1 4
-http://tdmu.co.vu/wp-admin/user-new.php
-1 11
-http://tdmu.co.vu/wp-admin/tools.php
-1 2
-http://www.tsmutest.tk/wp-admin/about.php
-1 11
-http://www.tsmutest.tk/medical-work/hospitals-and-clinical-bases/
-1 35
-http://tdmu.co.vu/manual/pt-br/vhosts
-1 5
-http://www.tsmutest.tk/about/achievements/attachment/27/
-1 17
-http://tdmu.co.vu/category/uncategorized/
-1 17
-http://tdmu.co.vu/wp-admin/widgets.php
-1 4
-http://tdmu.co.vu/2015/02/05/media/
-1 18
-http://tdmu.co.vu/wp-admin/about.php
-1 17
-http://tdmu.co.vu/wp-content/themes/twentythirteen/style.css
-1 1
-http://www.tsmutest.tk/wp-admin/post.php
-1 5307
-http://tdmu.co.vu/wp-admin/plugin-editor.php
-1 4
-http://www.tsmutest.tk/category/tsmu/news/
-1 1473
-http://tdmu.co.vu/wp-admin/load-styles.php
-1 29
-http://www.tsmutest.tk/wp-content/plugins/google-language-translator/css/style.css
-1 93
-http://tdmu.co.vu/sample-page/
-1 76
-http://www.tsmutest.tk/job-training/distance-learning-center/
-1 239
-http://www.tsmutest.tk/about/
-1 39
-http://www.tsmutest.tk/wp-content/themes/wp-strapfolio/css/custom.css
-1 61
-http://tdmu.co.vu/author/urkobanzay/
-1 1
-http://tdmu.co.vu/wp-admin/edit-tags.php
-1 49
-http://www.tsmutest.tk/job-training/institutes/
-1 20
-http://www.tsmutest.tk/2015/02/
-1 22
-http://tdmu.co.vu/author/admin/
-1 1
-http://tdmu.co.vu/wp-admin/options-media.php
-1 1
-http://tdmu.co.vu/wp-content/plugins/google-language-translator/css/style.css
-1 4
-http://tdmu.co.vu/wp-content/themes/bootstrap-basic/css/bootstrap.min.css
-1 1
-http://www.tsmutest.tk/about/license/image003-2/
-1 1
-http://tdmu.co.vu/wp-admin/post-new.php
-1 288
-http://tdmu.co.vu/wp-admin/update.php
-1 28
-http://tdmu.co.vu/en_US/
-1 36
-http://tdmu.co.vu/wp-admin/theme-editor.php
-1 13
-http://tdmu.co.vu/wp-admin/edit-comments.php
-1 3
-http://www.tsmutest.tk/wp-content/themes/writerstrap/style.css
-1 2
-http://www.tsmutest.tk/contacts/
-1 225
-http://tdmu.co.vu/en_US/activity/
-1 1
-http://www.tsmutest.tk/wp-admin/index.php
-1 267
-http://www.tsmutest.tk/for-student/rules/
-1 136
-http://www.tsmutest.tk/science/research-office/
-1 1
-http://www.tsmutest.tk/wp-admin/options-writing.php
-1 7
-http://tdmu.co.vu/wp-admin/plugins.php
-1 482
-http://www.tsmutest.tk/about/license/image002-2/
-1 2
-http://www.tsmutest.tk/wp-content/themes/openstrap/inc/admin/css/optionsframework.css
-1 17
-http://tdmu.co.vu/test-test/
-1 114
-http://www.tsmutest.tk/wp-includes/js/tinymce/skins/lightgray/content.min.css
-1 2
-http://www.tsmutest.tk/wp-admin/user-new.php
-1 19
-http://www.tsmutest.tk/wp-includes/js/imgareaselect/imgareaselect.css
-1 2
-http://www.tsmutest.tk/job-training/education-quality-standards/
-1 34
-http://tdmu.co.vu/wp-admin/plugin-install.php
-1 33
-http://tdmu.co.vu/
-1 2681
-http://www.tsmutest.tk/about/departments/
-1 23
-http://www.tsmutest.tk/for-student/deans-office/
-1 199
-https://www.google.com.ua/
+1 60
+http://whois.domaintools.com/tsmutest.tk
 0 1
-http://www.tsmutest.tk/wp-admin/css/login.min.css
-1 3
-http://tdmu.co.vu/wp-admin/customize.php
-1 3488
-http://tdmu.co.vu/wp-admin/css/login.min.css
-1 5
-http://tdmu.co.vu/wp-content/plugins/multilanguage/bws_menu/css/general_style.css
+http://www.tsmutest.tk/wp-admin/admin.php
+1 4122
+http://www.tsmutest.tk/wp-admin/revision.php
+1 17
+http://www.tsmutest.tk/job-training/departments/
 1 1
-http://www.tsmutest.tk/for-student/activities/
-1 124
-http://www.tsmutest.tk/Search-Replace-DB-master/
-1 23
-http://www.tsmutest.tk/category/uncategorized/
-1 3
-http://www.tsmutest.tk/job-training/work-plans/
-1 95
-http://www.tsmutest.tk/wp-admin/widgets.php
-1 577
-http://www.tsmutest.tk/wp-admin/media-upload.php
-1 22
-http://www.tsmutest.tk/wp-admin/options-discussion.php
-1 22
-http://tdmu.co.vu/wp-admin/options-reading.php
-1 7
-http://www.tsmutest.tk/category/тдму/news/
-1 213
-http://tdmu.co.vu/test1/
-1 99
-http://www.tsmutest.tk/wp-admin/edit-tags.php
-1 61
-http://www.tsmutest.tk/wp-admin/post-new.php
-1 2116
-http://www.tsmutest.tk/medical-work/healing-and-diagnostic-center/
-1 19
-http://www.tsmutest.tk/wp-admin/options-general.php
-1 482
-http://www.tsmutest.tk/category/slider/
-1 1
-http://www.tsmutest.tk/job-training/the-set-of-measures-on-the-educational-process/
-1 318
-http://tdmu.co.vu/wp-admin/post.php
-1 822
-http://www.tsmutest.tk/wp-admin/profile.php
-1 10
-http://www.tsmutest.tk/2015/02/17/урааа-скоро-новий-сайт/
-1 98
-http://tdmu.co.vu/manual/da/mod/mod_proxy_ftp.html
+http://www.tsmutest.tk/wp-admin/tools.php
+1 11
+http://www.tsmutest.tk/wp-admin/plugin-install.php
+1 82
+http://www.tsmutest.tk/2015/02/09/media1/
 1 4
-http://www.tsmutest.tk/contacts/resources/
-1 107
-http://www.tsmutest.tk/sitemap-misc.xml
-1 1
-http://www.tsmutest.tk/
-1 7544
-http://tdmu.co.vu/uk/activity/
-1 4
-http://www.tsmutest.tk/about/ternopil-state/
-1 38
-http://www.tsmutest.tk/job-training/faculties/
-1 2
-http://www.tsmutest.tk/wp-content/themes/wp-strapfolio/css/app.css
-1 32
-http://www.tsmutest.tk/wp-content/uploads/sass/a3_responsive_slider.min.css
-1 9
-http://tdmu.co.vu/wp-admin/setup-config.php
-1 23
-http://www.tsmutest.tk/about/administration/
-1 24
-http://www.tsmutest.tk/about/achievements/attachment/28/
-1 2
-http://tdmu.co.vu/wp-admin/css/install.min.css
-1 6
-http://www.tsmutest.tk/wp-content/plugins/footer-putter/styles/admin.css
-1 2
-http://www.tsmutest.tk/2015/02/05/tdmupic/
-1 24
-http://tdmu.co.vu/wp-content/themes/advertica-lite/style.css
-1 7
-http://tdmu.co.vu/wp-admin/options-discussion.php
+http://www.tsmutest.tk/job-training/institutes/institute-of-morphology/
+1 16
+http://www.tsmutest.tk/wp-admin/themes.php
+1 714
+http://www.tsmutest.tk/wp-admin/theme-editor.php
+1 28
+http://www.tsmutest.tk/wp-admin/nav-menus.php
+1 53
+http://www.tsmutest.tk/job-training/institutes/institute-of-continuing-education/
 1 15
-http://www.tsmutest.tk/wp-content/themes/city-informer/style.css
-1 8
-http://tdmu.co.vu/wp-admin/index.php
-1 10
-http://tdmu.co.vu/wp-admin/themes.php
-1 598
-http://www.tsmutest.tk/wp-admin/theme-install.php
-1 69
-http://tdmu.co.vu/wp-admin/nav-menus.php
-1 694
+http://www.tsmutest.tk/about/departments/analytics.tdmu.edu.ua/
+1 19
+http://www.tsmutest.tk/about/horbachevsky/
+1 323
+http://www.tsmutest.tk/484
+1 18
+http://www.tsmutest.tk/medical-work/hospitals-and-clinical-bases/
+1 33
+http://www.tsmutest.tk/40
+1 15
+http://www.tsmutest.tk/wp-admin/post.php
+1 2624
+http://www.tsmutest.tk/category/tsmu/news/
+1 712
+http://www.tsmutest.tk/wp-content/plugins/google-language-translator/css/style.css
+1 66
+http://www.tsmutest.tk/job-training/distance-learning-center/
+1 20
+http://www.tsmutest.tk/about/
+1 15
+http://www.tsmutest.tk/awdawdawd
+1 15
+http://www.tsmutest.tk/job-training/institutes/
+1 150
+http://www.tsmutest.tk/contacts/
+1 59
+http://www.tsmutest.tk/wp-admin/index.php
+1 79
+http://www.tsmutest.tk/science/research-office/
+1 16
+http://www.tsmutest.tk/wp-admin/options-writing.php
+1 3
+http://www.tsmutest.tk/medical-work/
+1 79
+http://www.tsmutest.tk/wp-content/themes/openstrap/inc/admin/css/optionsframework.css
+1 5
+http://www.tsmutest.tk/wp-admin/user-new.php
+1 18
+http://www.tsmutest.tk/job-training/education-quality-standards/
+1 231
+http://www.tsmutest.tk/international-relations/information-centre-for-european-and-euro-atlantic-integration/
+1 35
+http://www.tsmutest.tk/about/departments/
+1 378
+http://www.tsmutest.tk/for-student/deans-office/
+1 228
+https://www.google.com.ua/
+0 11
+http://www.tsmutest.tk/wp-admin/css/login.min.css
+1 6
+http://www.tsmutest.tk/for-student/activities/
+1 136
+http://www.tsmutest.tk/wp-admin/update-core.php
+1 55
+http://www.tsmutest.tk/wp-admin/user-edit.php
+1 24
+http://www.tsmutest.tk/job-training/work-plans/
+1 17
+http://www.tsmutest.tk/wp-admin/widgets.php
+1 353
+http://www.tsmutest.tk/wp-content/plugins/lightbox-plus/admin/lightbox.admin.css
+1 11
+http://www.tsmutest.tk/wp-admin/post-new.php
+1 214
+http://www.tsmutest.tk/medical-work/healing-and-diagnostic-center/
+1 16
+http://www.tsmutest.tk/wp-admin/options-general.php
+1 209
+http://www.tsmutest.tk/job-training/the-set-of-measures-on-the-educational-process/
+1 55
+http://www.tsmutest.tk/wp-admin/profile.php
+1 18
+http://www.tsmutest.tk/tag/announcement/
+1 23
+http://www.tsmutest.tk/page-cse
+1 214
+http://www.tsmutest.tk/
+1 9551
+http://www.tsmutest.tk/search/
+1 52
+http://www.tsmutest.tk/about/ternopil-state/
+1 70
+http://www.tsmutest.tk/job-training/faculties/
+1 286
+http://www.tsmutest.tk/about/administration/
+1 146
+http://www.tsmutest.tk/2015/02/05/tdmupic/
+1 11
+http://www.tsmutest.tk/deans-office/
+1 15
+http://www.tsmutest.tk/job-training/institutes/institute-of-medical-and-biological-problems/
+1 16
+http://www.tsmutest.tk/job-training/institutes/institute-of-pharmacology/
+1 16
 # End Of Table - referrers
 # -agents- 
-Mozilla/5.0 (Windows NT 6.1; Win64; x64; Trident/7.0; rv:11.0) like Gecko
-0 2
-Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko; Google Web Preview) Chrome/27.0.1453 Safari/537.36
-0 29
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/41.0.2272.76 Chrome/41.0.2272.76 Safar
+0 22
 Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20110814 Firefox/6.0 Google favicon
-0 12
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
-0 59
-Mozilla/5.0 Moreover/5.1 (+http://www.moreover.com; webmaster@moreover.com)
-0 7
-Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-0 188
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.94 Safari/537.36
-0 459
-Sunrise/0.42g (Windows XP)
-0 2
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0
-0 2
-Mozilla/5.0 (Linux; Android 4.4.4; C6602 Build/10.5.1.A.0.283) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.109 Mo
-0 58
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
-0 96
-Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
-0 3913
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36
-0 10
-Validator.nu/LV
-0 10
-Googlebot-Image/1.0
-0 5
-Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.94 Safari/537.36
-0 212
-Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
-0 85
-Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
-0 95
-Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.7.6) Gecko/20050405 Epiphany/1.6.1 (Ubuntu) (Ubuntu package 1.0.2)
-0 2
-Mozilla/5.0 (Windows NT 6.3; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
-0 13015
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; IBP; .NET CLR 1.1.4322)
-0 2
-Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
-0 25319
-Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 (.NET CLR 2.0.50727; .NET CLR 3.0.45
-0 2
-Apache-HttpClient/4.1.1 (java 1.5)
+0 16
+Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)
+0 145
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+0 48
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
 0 1
-Mozilla/5.0 (Windows NT 6.1; rv:35.0) Gecko/20100101 Firefox/35.0
-0 21
-Mozilla/5.0 (Windows NT 6.3; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
-0 1039
-Mozilla/5.0 (Linux; Android 4.4.4; C6602 Build/10.5.1.A.0.283) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.45 Mob
-0 20
-WordPress/4.1; http://tdmu.co.vu
-0 83
-WordPress/4.1; http://tdmu.co.vu/en_US
-0 6
+Mozilla/4.0 (compatible; Netcraft Web Server Survey)
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.76 Safari/537.36
+0 101
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+0 1964
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36 OPR/27.0.1689.7
+0 45
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+0 27
+viralvideochart.unrulymedia.com vvcscanner@unrulymedia.com
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 636
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+0 1752
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en; rv:1.9.0.13) Gecko/2009073022 Firefox/3.5.2 (.NET CLR 3.5.30729) SurveyBot/2.3 (
+0 2
+Mozilla/5.0 (Linux; Android 4.4.4; XT1032 Build/KXB21.14-L1.61) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.92 Mo
+0 24
+Mozilla/5.0 (Linux; Android 4.4.4; C6602 Build/10.5.1.A.0.283) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.109 Mo
+0 28
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+0 7179
+Googlebot-Image/1.0
+0 16
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1709.125 Amigo/32.0.1709.125 MRCHROME 
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safa
+0 74
+Googlebot/2.1 (+http://www.google.com/bot.html)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 23
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:37.0) Gecko/20100101 Firefox/37.0
+0 588
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.76 Safari/537.36 OPR/28.0.1750.40
+0 55
+Mozilla/5.0 (compatible; GoogleDocs; apps-spreadsheets; +http://docs.google.com)
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.76 Safari/537.36
+0 84
+Mozilla/5.0 (Windows NT 6.1; rv:36.0) Gecko/20100101 Firefox/36.0
+0 549
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:35.0) Gecko/20100101 Firefox/35.0
+0 7870
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 (.NET CLR 2.0.50727; .NET CLR 3.0.45
+0 1
+Apache-HttpClient/4.3.5 (java 1.5)
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+0 33
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+0 891
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 569
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/40.0.2214.111 Chrome/40.0.2214.111 Saf
+0 26
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.76 Safari/537.36
+0 25
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+0 33
 Mozilla/5.0 (Linux; Android 4.4.4; XT1032 Build/KXB21.14-L1.61) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.109 M
-0 88
+0 25
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+0 207
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36
+0 778
 Mozilla/5.0 (compatible) Feedfetcher-Google; (+http://www.google.com/feedfetcher.html)
 0 1
-WordPress/4.1.1; http://www.tsmutest.tk
+Mozilla/5.0 (Linux; Android 4.4.4; XT1032 Build/KXB21.14-L1.61) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.94 Mo
 0 2
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.94 Safari/537.36
-0 10
-WordPress/4.1; http://www.tsmutest.tk
-0 76
-Mozilla/5.0 (iPad; CPU OS 8_1_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12B440 Safari/600.1
-0 29
+WordPress/4.1.1; http://www.tsmutest.tk
+0 145
 W3C_Validator/1.3 http://validator.w3.org/services
-0 6
-Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
-0 13
-Biyubi/x.x (Sistema Fenix; G11; Familia Toledo; es-mx)
-0 1
-Mozilla/5.0 (Linux; Android 4.4.4; XT1032 Build/KXB21.14-L1.61) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.89 Mo
-0 52
+0 12
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
+0 4132
 # End Of Table - agents
 # -search strings- 
 # End Of Table - search strings
