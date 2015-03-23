@@ -6935,6 +6935,8 @@ button.close {
 
 .carousel-caption .btn {
   text-shadow: none;
+ 
+
 }
 
 @media screen and (min-width: 768px) {
@@ -6947,6 +6949,7 @@ button.close {
     margin-top: -15px;
     margin-left: -15px;
     font-size: 30px;
+	
   }
   .carousel-caption {
     right: 20%;

@@ -21,7 +21,10 @@ http://www.gnu.org/licenses/gpl-3.0.html
 
 
 /*Theme CSS*/
-
+.carousel-caption h1{
+	color:#178acc;
+	text-shadow: 2px 2px 3px black, 0 0 1em white; /* Параметры тени */
+}
 .footermenu ul{
  padding: 0px;
 }
