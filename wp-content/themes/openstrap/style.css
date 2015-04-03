@@ -236,14 +236,12 @@ padding-top:3px;
 #header-top {
 	#background-color: #333;	
 	font-size: 12px;
-	height: 23px;
-	max-height: 23px;		
+
 	#border-bottom: 1px solid #444;
 }
 
 #header-top > .container {
-height: 23px;
-max-height: 23px;
+
 }
 
 #header-top a:hover, a:focus {

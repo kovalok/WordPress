@@ -66,29 +66,37 @@
 						<?php function langFlag ($lang){
 							
 							$url=$_SERVER["REQUEST_URI"];
-							$findlang   = '?lang';
-							$pos = strpos($url, $findlang);
+							$findlang   = '/';
+							$pos = strpos($url, $findlang,1);
 							if ($pos === false) {
 								//echo "Строка '$findme' не найдена в строке '$mystring'";
 								if($lang=="ua"){
 									$langUrl= $url;
 								}
+                                elseif($lang=="en")
+                                {
+                                    $langUrl="/en/";
+                                }
 								else {
-									$langUrl= $url."?lang=".$lang;
+									$langUrl= $url.$lang."/";
 								}
 							} else {
 								//echo "Строка '$findme' найдена в строке '$mystring'";
 								//echo " в позиции $pos";
 								
 								if($lang=="ua"){
-									$len=strlen($url);
-									$url=substr_replace($url, '', $pos, $len);
+
+									$url=substr_replace($url, '', 0, $pos);
 									$langUrl=$url;
 								}
+                                elseif($lang=="en")
+                                {
+                                    $langUrl="/en/";
+                                }
 								else {
 									$len=strlen($url);
-									$url=substr_replace($url, '', $pos, $len);
-									$langUrl=$url."?lang=".$lang;
+									$url=substr_replace($url, $lang."/",  1, $pos);
+									$langUrl=$url;
 								}
 								
 								

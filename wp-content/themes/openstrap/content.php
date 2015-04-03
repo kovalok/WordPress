@@ -35,12 +35,14 @@
 					get_the_author()
 					)
 					);
-				?>         
+				?>
+            <!--
 			<div class="pull-right">				
 				<span class="post_comment"><i class="icon-comments"></i>
 				<a href="<?php the_permalink() ?>#comments"><?php comments_number(__('No comments', 'openstrap'),__('One comment','openstrap'),__('% comments','openstrap')); ?></a>
 				</span>
-			</div>				
+			</div>
+						-->
 		</div> 
 		<?php endif;?>
 		<hr class="post-meta-hr"/>
